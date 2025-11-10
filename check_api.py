@@ -294,9 +294,14 @@ def inqRapidMicroTranslate3(results=[]):
             results.append(":no_entry: **Not** subscribed to Microsoft-Translator-3")
             addSubscribeMessageToResults(results, "Microsoft-Translator-3", "https://rapidapi.com/apiship-apiship-default/api/microsoft-translator-text-api3")
             return False
-        print(jsonData)     
+        if('messages' in jsonData):
+          if('The API is unreachable, please contact the API provider'==jsonData['message']):
+            results.append(":no_entry: Microsoft-Translator-3 **not** reachable")
+            results.append("Maybe retry later...?") #?
+            return False
         if (len(jsonData)>0):
           results.append(":white_check_mark: Microsoft-Translator-3 status fine")
+          print(jsonData)
           if ('translations' in jsonData[0]):
             results.append(":white_check_mark: Microsoft-Translator-3 results found")
             return True
@@ -648,7 +653,6 @@ def recheckRegisterGeonamesToResults(results=[]):
     results.append("   * Save") 
     return False
 
-
 def inqGeonamesApi(results=[]):
   apiKey = os.getenv('GEONAMES_KEY')
   url = ('http://api.geonames.org/searchJSON?name=Freiburg&country=DE&maxRows=10&username='+apiKey)
@@ -657,12 +661,21 @@ def inqGeonamesApi(results=[]):
   if(response.text):
     results.append(":white_check_mark: Geonames respone fine") 
     jsonData = json.loads(response.text)
-    #print(jsonData)
+
+
 
     if('message' in jsonData):
       if(('credits for demo has been exceeded' in jsonData['message']) or ('user does not exist' in jsonData['message'])):
-        results.append(":no_entry: **Not** registered at Geonames...")
+        results.append(":no_entry: **Not** registered at Geonames")
         addRegisterGeonamesToResults(results)
+        return False
+      if('invalid user' in status['message']):
+        results.append(":no_entry: **Not** registered at Geonames (or invalid)")
+        recheckRegisterGeonamesToResults(results)
+        return False
+      if(('user account not enabled to use the free webservice' in status['message']) or ('Please enable it on your account page' in status['message'])):
+        results.append(":no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount ")
+        #addRegisterGeonamesToResults(results)
         return False
 
     if('status' in jsonData):
