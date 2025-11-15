@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm',en,Hazard,#ff0000,#ff0000,2,0.7
 'storm damages',en,Impacts,#ffff00,#ffff00,2,0.5
-'storm warning',en,Mitigation,#00ff00,#00ff00,2,0.4831487081818182
-'storm deaths',en,Impacts,#ffff00,#ffff00,2,0.47260094214285714
+'storm deaths',en,Impacts,#ffff00,#ffff00,2,0.4726009421428571
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.46778039
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.4427157911290322
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.43545036075
+'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.42974350195454547
