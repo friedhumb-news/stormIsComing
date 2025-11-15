@@ -3,6 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm deaths',en,Impacts,#ffff00,#ffff00,2,0.4726009421428571
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.46778039
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.4427157911290322
-'storm damages',en,Impacts,#ffff00,#ffff00,2,0.44245856
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.43545036075
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4297435019545454
+'storm damages',en,Impacts,#ffff00,#ffff00,2,0.4112259569677419
