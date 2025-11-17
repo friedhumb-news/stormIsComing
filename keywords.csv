@@ -4,5 +4,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.4412075954988478
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.43545036075
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4297435019545454
-'storm damages',en,Impacts,#ffff00,#ffff00,2,0.4112259569677419
+'storm damages',en,Impacts,#ffff00,#ffff00,2,0.38032339068064513
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.3326944398004031
