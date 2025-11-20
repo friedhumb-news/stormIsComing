@@ -7,12 +7,12 @@ nor'wester,en,Hazard,#ff0000,#ff0000,2,0.5
 'haboob',en,Hazard,#ff0000,#ff0000,2,0.5
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.5
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.4463144013636363
-'dust devil',en,Hazard,#ff0000,#ff0000,2,0.42995064499999996
+'dust devil',en,Hazard,#ff0000,#ff0000,2,0.4299506449999999
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4297435019545454
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.425
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.3713329266375
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.3598543164070085
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.3478006629462499
 'storm',en,Hazard,#ff0000,#ff0000,3,0.3336987291377891
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.3203710205167661
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.316683092641875
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
