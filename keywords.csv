@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.5
 'tornado',en,Hazard,#ff0000,#ff0000,2,0.5
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.4463144013636363
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.4422250372727273
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4297435019545454
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.425450045
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.42500003
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.425
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.425
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3849465202727272
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.3806936516818182
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.3704086632499999
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.3598543164070085
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.3537743666861306
