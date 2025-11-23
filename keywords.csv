@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'derecho',en,Hazard,#ff0000,#ff0000,2,0.5
 'tornado',en,Hazard,#ff0000,#ff0000,2,0.4504127354545454
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.4463144013636363
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4297435019545454
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.42905005549999997
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.4290500554999999
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.425450045
+'derecho',en,Hazard,#ff0000,#ff0000,1,0.42500040499999997
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.425
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.425
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3849465202727272
