@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.4463144013636363
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.4250004049999999
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.425
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4102997066613636
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.4049283999750733
+'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.38840896025
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3849465202727272
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.3806936516818182
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.3649925771749999
