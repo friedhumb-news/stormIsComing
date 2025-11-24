@@ -1,45 +1,53 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Typhoon Fung-wong,Typhoon Fung-wong,PERSON,-0.018999518999519006,0.2336459836459836,en,7.700000000000001
 Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.08333333333333333,0.2518229166666667,en,6.4
+Hurricane Melissa,Hurricane Melissa,PERSON,0.0,0.0,en,3.1
+Yoon Ji Sung,Yoon Ji Sung,PERSON,0.041463744588744585,0.5997700216450216,en,2.8
 Nusari Bayu,Nusari Bayu,PERSON,0.0625,0.09821428571428573,en,2.8
 Aston Martin DB9 Volante,Aston Martin DB9 Volante,PERSON,-0.14285714285714288,0.2142857142857143,en,2.8
-Scott Bessent,Scott Bessent,PERSON,0.10526315789473684,0.3859649122807018,en,1.9
-GEORGE TOWN,GEORGE TOWN,PERSON,0.06140350877192982,0.14035087719298245,en,1.9
-Storm Claudia,Storm Claudia,PERSON,-0.2105263157894737,0.5263157894736842,en,1.9
 Aston Martin V8 Vantage,Aston Martin V8 Vantage,PERSON,-0.2105263157894737,0.3157894736842105,en,1.9
+Rachel Feltman,Rachel Feltman,PERSON,0.6140350877192983,0.6578947368421053,en,1.9
+Lee Il Jo,Lee Il Jo,PERSON,0.05811403508771929,0.6655701754385965,en,1.9
+Scott Bessent,Scott Bessent,PERSON,0.10526315789473684,0.3859649122807018,en,1.9
+Storm Claudia,Storm Claudia,PERSON,-0.2105263157894737,0.5263157894736842,en,1.9
 Donald Trump,Donald Trump,PERSON,0.0,0.026315789473684213,en,1.9
-Hurricane Melissa,Hurricane Melissa,PERSON,0.0,0.0,en,1.4
-Stafford Geohagen,Stafford Geohagen,PERSON,0.7142857142857143,0.7142857142857143,en,1.4
+Thundercloud Rainstorm,Thundercloud Rainstorm,PERSON,0.05811403508771929,0.6655701754385965,en,1.9
+GEORGE TOWN,GEORGE TOWN,PERSON,0.06140350877192982,0.14035087719298245,en,1.9
 SANTIAGO DE,SANTIAGO DE,PERSON,0.22448979591836735,0.5561224489795918,en,1.4
-Sean Duffy,Sean Duffy,PERSON,-0.18181818181818182,0.3181818181818181,en,1.1
+Stafford Geohagen,Stafford Geohagen,PERSON,0.7142857142857143,0.7142857142857143,en,1.4
 Viv Truran,Viv Truran,PERSON,0.3863636363636363,0.5,en,1.1
-Clayton Dalton,Clayton Dalton,PERSON,0.0,0.0,en,1.0
-Jeff Masters,Jeff Masters,PERSON,0.0,0.0,en,1.0
-Taiwans Ce,Taiwans Ce,PERSON,0.24444444444444444,0.5777777777777778,en,1.0
+Sean Duffy,Sean Duffy,PERSON,-0.18181818181818182,0.3181818181818181,en,1.1
+Jason Allen,Jason Allen,PERSON,0.3333333333333333,0.4166666666666667,en,1.0
 Eversong Woods,Eversong Woods,PERSON,0.16818181818181818,0.42727272727272725,en,1.0
 Silvermoon Ci,Silvermoon Ci,PERSON,-0.015151515151515152,0.3106060606060606,en,1.0
 Robert Orben,Robert Orben,PERSON,0.0,0.0,en,1.0
+Taiwans Ce,Taiwans Ce,PERSON,0.24444444444444444,0.5777777777777778,en,1.0
 Thomas Wahl,Thomas Wahl,PERSON,0.0,0.0,en,1.0
+Linus Torvalds,Linus Torvalds,PERSON,0.0,0.06666666666666667,en,1.0
+Desmond McKenzie,Desmond McKenzie,PERSON,0.0,0.0,en,1.0
 Ruth Comerford,Ruth Comerford,PERSON,-0.2,0.5,en,1.0
 Ryan David,Ryan David,PERSON,0.0,0.06666666666666667,en,1.0
-Muhammad Sallehin Mohd Din,Muhammad Sallehin Mohd Din,PERSON,0.0,0.0,en,1.0
-Anil Ambani,Anil Ambani,PERSON,0.5,0.5,en,1.0
-Ava Ahlander,Ava Ahlander,PERSON,0.0,0.0,en,1.0
-Aston Martin,Aston Martin,PERSON,0.0,0.0,en,1.0
-Weather Hi-Def Radar Storm Watch Plus,Weather Hi-Def Radar Storm Watch Plus,PERSON,0.0,0.125,en,1.0
-Melissa Strengthens,Melissa Strengthens,PERSON,0.0,0.0,en,1.0
+Andrew Miller’s,Andrew Miller’s,PERSON,0.25,0.35,en,1.0
 Melissa Explodes,Melissa Explodes,PERSON,0.0,0.0,en,1.0
-Jason Allen,Jason Allen,PERSON,0.3333333333333333,0.4166666666666667,en,1.0
-Grant Gilmore,Grant Gilmore,PERSON,0.3333333333333333,0.4166666666666667,en,1.0
+Muhammad Sallehin Mohd Din,Muhammad Sallehin Mohd Din,PERSON,0.0,0.0,en,1.0
+Melissa Strengthens,Melissa Strengthens,PERSON,0.0,0.0,en,1.0
+Jeong Riu,Jeong Riu,PERSON,0.005681818181818177,0.4147727272727273,en,1.0
+Clayton Dalton,Clayton Dalton,PERSON,0.0,0.0,en,1.0
 St Catherine,St Catherine,PERSON,0.2222222222222222,0.4777777777777777,en,1.0
-Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1.0
-Rob Cuff,Rob Cuff,PERSON,0.21481481481481482,0.5962962962962963,en,1.0
-Desmond McKenzie,Desmond McKenzie,PERSON,0.0,0.0,en,1.0
-Jesus Christ,Jesus Christ,PERSON,-0.2,0.4,en,1.0
+Grant Gilmore,Grant Gilmore,PERSON,0.3333333333333333,0.4166666666666667,en,1.0
+Weather Hi-Def Radar Storm Watch Plus,Weather Hi-Def Radar Storm Watch Plus,PERSON,0.0,0.125,en,1.0
 John Morales,John Morales,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
 Matias Delacroix,Matias Delacroix,PERSON,0.0,0.0,en,1.0
 YAMIL LAGE,YAMIL LAGE,PERSON,0.0,0.0,en,1.0
 Briohny Williams,Briohny Williams,PERSON,0.5,0.5,en,1.0
 Nick Davis,Nick Davis,PERSON,0.5,0.5,en,1.0
-Chip Somodevilla,Chip Somodevilla,PERSON,0.125,0.5,en,1.0
 St Elizabeth,St Elizabeth,PERSON,0.5,0.5,en,1.0
+Aston Martin,Aston Martin,PERSON,0.0,0.0,en,1.0
+Jesus Christ,Jesus Christ,PERSON,-0.2,0.4,en,1.0
+Chip Somodevilla,Chip Somodevilla,PERSON,0.125,0.5,en,1.0
+Anil Ambani,Anil Ambani,PERSON,0.5,0.5,en,1.0
+Rob Cuff,Rob Cuff,PERSON,0.21481481481481482,0.5962962962962963,en,1.0
+Starlink Starlink,Starlink Starlink,PERSON,0.3833333333333333,0.55,en,1.0
+Jeff Masters,Jeff Masters,PERSON,0.0,0.0,en,1.0
+Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1.0
+Ava Ahlander,Ava Ahlander,PERSON,0.0,0.0,en,1.0
