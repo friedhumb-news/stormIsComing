@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3849465202727272
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.3705702544673912
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.3649925771749999
-'tornado',en,Hazard,#ff0000,#ff0000,3,0.36142007225153955
+'tornado',en,Hazard,#ff0000,#ff0000,3,0.3614200722515395
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.3598543164070085
-'storm cause',en,Causes,#00ffff,#00ffff,3,0.3537743666861306
+'storm cause',en,Causes,#00ffff,#00ffff,3,0.3376562535797627
 'storm',en,Hazard,#ff0000,#ff0000,3,0.3336987291377891
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.3283918989295454
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.3203710205167661
