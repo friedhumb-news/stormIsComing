@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.4102997066613636
-'tornado',en,Hazard,#ff0000,#ff0000,3,0.4049283999750733
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.38840896025
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3849465202727272
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.3705702544673912
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.3649925771749999
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.36124999999999996
+'tornado',en,Hazard,#ff0000,#ff0000,3,0.36142007225153955
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.3598543164070085
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.3537743666861306
