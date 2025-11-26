@@ -10,9 +10,9 @@ nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.3362537313227272
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.3361552521016915
 'storm',en,Hazard,#ff0000,#ff0000,3,0.3336987291377891
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.3283918989295454
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.3203710205167661
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.3163480087624999
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.3077702407625
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.29226718227193177
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2699307037455937
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
