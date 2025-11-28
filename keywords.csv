@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.3149850762972825
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.3105437205987499
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.3077702407625
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3070624999999999
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.3070624999999999
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2990621416243181
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.2922671822719317
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.285677279858606
-'storm cause',en,Causes,#00ffff,#00ffff,3,0.27491866353034405
+'storm cause',en,Causes,#00ffff,#00ffff,3,0.274918663530344
+nor'wester,en,Hazard,#ff0000,#ff0000,1,0.2610031249999999
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
