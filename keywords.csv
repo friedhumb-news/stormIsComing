@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.3373283214138085
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.3361552521016915
 'storm',en,Hazard,#ff0000,#ff0000,3,0.3336987291377891
-'storm damages',en,Impacts,#ffff00,#ffff00,3,0.3203710205167661
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.3163480087624999
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.3149850762972825
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.3105437205987499
@@ -14,5 +13,6 @@ nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3070624999999999
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2990621416243181
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.2922671822719317
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.2909195605427983
+'storm damages',en,Impacts,#ffff00,#ffff00,3,0.285677279858606
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
