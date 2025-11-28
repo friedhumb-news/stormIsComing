@@ -12,7 +12,7 @@ nor'wester,en,Hazard,#ff0000,#ff0000,1,0.3070624999999999
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.3070624999999999
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2990621416243181
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.2922671822719317
-'storm cause',en,Causes,#00ffff,#00ffff,3,0.2909195605427983
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.285677279858606
+'storm cause',en,Causes,#00ffff,#00ffff,3,0.27491866353034405
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
