@@ -14,5 +14,5 @@ nor'wester,en,Hazard,#ff0000,#ff0000,1,0.2610031249999999
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.2328497448747865
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.2247728786325968
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.2201749101914706
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.19195101366275
