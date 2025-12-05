@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm',en,Hazard,#ff0000,#ff0000,3,0.311811767915689
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2946573238846097
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.2912690655937902
-'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.2767008460981985
+'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.26469600372892327
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.262054749648125
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.2610031249999999
 'sandstorm',en,Hazard,#ff0000,#ff0000,3,0.2526548924010312
