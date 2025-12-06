@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2293621337151369
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.2247728786325968
-'scirocco',en,Hazard,#ff0000,#ff0000,1,0.22319658220090624
+'scirocco',en,Hazard,#ff0000,#ff0000,1,0.2231965822009062
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.2153919638799225
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.19195101366275
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.1885747578124999
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1681107016133375
