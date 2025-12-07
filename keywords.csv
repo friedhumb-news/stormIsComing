@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.2517774354478428
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.2386414690007924
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.2328497448747865
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.2301911731837546
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.23001255720619138
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2293621337151369
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.2231965822009062
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.2153080265687701
