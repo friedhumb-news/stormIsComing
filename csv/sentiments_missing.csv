@@ -1,436 +1,764 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hurricane Melissa,Hurricane Melissa,EVENT,,,en,55.399999999999906
-5,5,CARDINAL,,,en,26.29999999999999
-Monday,Monday,DATE,,,en,25.79999999999999
-Thanksgiving,Thanksgiving,DATE,,,en,21.699999999999996
-Tuesday,Tuesday,DATE,,,en,20.499999999999996
-winter,winter,DATE,,,en,14.500000000000004
-one,one,CARDINAL,,,en,11.600000000000001
-More than 100,More than 100,CARDINAL,,,en,10.900000000000002
-four,four,CARDINAL,,,en,10.3
-Thursday,Thursday,DATE,,,en,10.000000000000002
-two,two,CARDINAL,,,en,10.000000000000002
-Americans,Americans,NORP,,,en,9.800000000000002
-first,first,ORDINAL,,,en,9.4
-4,4,CARDINAL,,,en,9.200000000000001
-six,six,CARDINAL,,,en,9.100000000000001
+Hurricane Melissa,Hurricane Melissa,EVENT,,,en,83.9
+winter,winter,DATE,,,en,78.40000000000002
+Tuesday,Tuesday,DATE,,,en,55.699999999999946
+Thanksgiving,Thanksgiving,DATE,,,en,45.09999999999996
+first,first,ORDINAL,,,en,36.39999999999998
+5,5,CARDINAL,,,en,35.29999999999997
+Monday,Monday,DATE,,,en,34.799999999999976
+Saturday,Saturday,DATE,,,en,33.199999999999974
+Friday,Friday,DATE,,,en,27.099999999999987
+this weekend,this weekend,DATE,,,en,25.29999999999999
+this week,this week,DATE,,,en,20.099999999999998
+2025,2025,DATE,,,en,19.599999999999998
+Thursday,Thursday,DATE,,,en,18.5
+Winter,Winter,DATE,,,en,18.1
+one,one,CARDINAL,,,en,17.900000000000002
+Sunday,Sunday,DATE,,,en,16.600000000000005
+More than 100,More than 100,CARDINAL,,,en,16.300000000000004
+4,4,CARDINAL,,,en,15.500000000000005
+two,two,CARDINAL,,,en,15.400000000000004
+six,six,CARDINAL,,,en,15.400000000000004
+Americans,Americans,NORP,,,en,15.200000000000005
+Wednesday,Wednesday,DATE,,,en,15.000000000000004
+millions,millions,CARDINAL,,,en,13.600000000000003
+thousands,thousands,CARDINAL,,,en,13.400000000000004
+four,four,CARDINAL,,,en,13.000000000000002
+this year,this year,DATE,,,en,12.900000000000002
+3,3,CARDINAL,,,en,12.0
+morning,morning,TIME,,,en,11.3
+the weekend,the weekend,DATE,,,en,10.400000000000002
+dozens,dozens,CARDINAL,,,en,10.3
+three,three,CARDINAL,,,en,10.000000000000002
+night,night,TIME,,,en,9.100000000000001
 afternoon,afternoon,TIME,,,en,8.600000000000001
-this week,this week,DATE,,,en,8.4
-Sunday,Sunday,DATE,,,en,7.900000000000001
-this year,this year,DATE,,,en,7.500000000000001
-One,One,CARDINAL,,,en,7.300000000000002
-millions,millions,CARDINAL,,,en,7.300000000000001
-thousands,thousands,CARDINAL,,,en,7.1000000000000005
-3,3,CARDINAL,,,en,6.9
-2025,2025,DATE,,,en,6.6000000000000005
-Wednesday,Wednesday,DATE,,,en,6.6000000000000005
+next week,next week,DATE,,,en,8.200000000000001
+One,One,CARDINAL,,,en,8.200000000000001
+hundreds,hundreds,CARDINAL,,,en,8.200000000000001
+today,today,DATE,,,en,7.500000000000001
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,7.300000000000001
+tens of thousands,tens of thousands,CARDINAL,,,en,7.300000000000001
+several inches,several inches,QUANTITY,,,en,7.300000000000001
+more than 400,more than 400,CARDINAL,,,en,7.300000000000001
+Two,Two,CARDINAL,,,en,6.4
+Hundreds,Hundreds,CARDINAL,,,en,6.4
 over 100,over 100,CARDINAL,,,en,6.4
-morning,morning,TIME,,,en,6.4
-Saturday,Saturday,DATE,,,en,6.2
-dozens,dozens,CARDINAL,,,en,5.800000000000001
-at least one,at least one,CARDINAL,,,en,5.5
+season,season,DATE,,,en,6.4
+200,200,CARDINAL,,,en,6.4
+evening,evening,TIME,,,en,6.4
+at least one,at least one,CARDINAL,,,en,6.4
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,6.4
+Thousands,Thousands,CARDINAL,,,en,6.2
+1,1,CARDINAL,,,en,5.7
+Winter Storm Warnings,Winter Storm Warnings,WORK_OF_ART,,,en,5.5
 Beetle Dune,Beetle Dune,PRODUCT,,,en,5.5
-Friday,Friday,DATE,,,en,5.5
-Thousands,Thousands,CARDINAL,,,en,5.3
-three,three,CARDINAL,,,en,4.6
+days,days,DATE,,,en,5.5
+British,British,NORP,,,en,4.6
+the coming days,the coming days,DATE,,,en,4.6
 at least two,at least two,CARDINAL,,,en,4.6
+6,6,CARDINAL,,,en,4.6
+Today,Today,DATE,,,en,4.6
 more than 100,more than 100,CARDINAL,,,en,4.6
-the weekend,the weekend,DATE,,,en,4.1
+tonight,tonight,TIME,,,en,4.6
+third,third,ORDINAL,,,en,4.6
+"Saturday, Sunday | Winter Storm Warning","Saturday, Sunday | Winter Storm Warning",DATE,,,en,4.6
+Hurricane Imelda,Hurricane Imelda,EVENT,,,en,4.6
+five,five,CARDINAL,,,en,4.0
 18,18,CARDINAL,,,en,3.9999999999999996
-today,today,DATE,,,en,3.9
-night,night,TIME,,,en,3.6999999999999997
-tonight,tonight,TIME,,,en,3.6999999999999997
-2023,2023,DATE,,,en,3.6999999999999997
-1.4 million,1.4 million,CARDINAL,,,en,3.6999999999999997
-days,days,DATE,,,en,3.6999999999999997
-hundreds,hundreds,CARDINAL,,,en,3.6999999999999997
+December,December,DATE,,,en,3.6999999999999997
+October,October,DATE,,,en,3.6999999999999997
+237,237,CARDINAL,,,en,3.6999999999999997
+up to 12 inches,up to 12 inches,QUANTITY,,,en,3.6999999999999997
+two-thirds,two-thirds,CARDINAL,,,en,3.6999999999999997
+Three,Three,CARDINAL,,,en,3.6999999999999997
+127,127,CARDINAL,,,en,3.6999999999999997
+Dozens,Dozens,CARDINAL,,,en,3.6999999999999997
+Millions,Millions,CARDINAL,,,en,3.6999999999999997
 November 2025,November 2025,DATE,,,en,3.6999999999999997
-this weekend,this weekend,DATE,,,en,3.6999999999999997
-Today,Today,DATE,,,en,3.6999999999999997
-1,1,CARDINAL,,,en,3.1999999999999997
+Asian,Asian,NORP,,,en,3.6999999999999997
+100,100,CARDINAL,,,en,3.6999999999999997
+Nov. 29,Nov. 29,DATE,,,en,3.6999999999999997
+1.4 million,1.4 million,CARDINAL,,,en,3.6999999999999997
+12,12,CARDINAL,,,en,3.6999999999999997
+several days,several days,DATE,,,en,3.6999999999999997
+last year,last year,DATE,,,en,3.6999999999999997
+14,14,CARDINAL,,,en,3.6999999999999997
+40,40,CARDINAL,,,en,3.6999999999999997
+114,114,CARDINAL,,,en,3.6999999999999997
+2023,2023,DATE,,,en,3.6999999999999997
+weeks,weeks,DATE,,,en,3.6999999999999997
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3.1999999999999997
 Jamaican,Jamaican,NORP,,,en,3.1999999999999997
-Thundercloud Rainstorm,Thundercloud Rainstorm,WORK_OF_ART,,,en,2.8
-114,114,CARDINAL,,,en,2.8
-Nov 23,Nov 23,DATE,,,en,2.8
-at least four,at least four,CARDINAL,,,en,2.8
-Canadian,Canadian,NORP,,,en,2.8
-Typhoon Fung-wong,Typhoon Fung-wong,FAC,-0.08000000000000002,0.16000000000000003,en,2.8
-season,season,DATE,,,en,2.8
-overnight,overnight,TIME,,,en,2.8
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,2.8
-Thanksgiving 2025,Thanksgiving 2025,DATE,,,en,2.8
-weeks,weeks,DATE,,,en,2.8
-Winter,Winter,DATE,,,en,2.8
-seven,seven,CARDINAL,,,en,2.8
-"2,000","2,000",MONEY,,,en,2.8
-Two,Two,CARDINAL,,,en,2.8
 At least six,At least six,CARDINAL,,,en,2.8
-October 2025,October 2025,DATE,,,en,2.8
-100,100,CARDINAL,,,en,2.8
-2007,2007,DATE,,,en,2.8
+half,half,CARDINAL,,,en,2.8
+500,500,CARDINAL,,,en,2.8
+Winter Storm Warning,Winter Storm Warning,WORK_OF_ART,,,en,2.8
+overnight,overnight,TIME,,,en,2.8
+"more than 1,400","more than 1,400",CARDINAL,,,en,2.8
+2017,2017,DATE,,,en,2.8
+hours,hours,TIME,,,en,2.8
+"1,000","1,000",CARDINAL,,,en,2.8
+"1,400","1,400",CARDINAL,,,en,2.8
+"Saturday, Nov. 29","Saturday, Nov. 29",DATE,,,en,2.8
+Portuguese,Portuguese,NORP,,,en,2.8
+summer,summer,DATE,,,en,2.8
+65,65,CARDINAL,,,en,2.8
+the day,the day,DATE,,,en,2.8
+up to,up to,QUANTITY,,,en,2.8
+"2,000","2,000",MONEY,,,en,2.8
+Brazilian,Brazilian,NORP,,,en,2.8
+at least five,at least five,CARDINAL,,,en,2.8
 early Wednesday,early Wednesday,DATE,,,en,2.8
-at least 26,at least 26,CARDINAL,,,en,2.8
+Indian,Indian,NORP,,,en,2.8
+at least six,at least six,CARDINAL,,,en,2.8
+240,240,CARDINAL,,,en,2.8
+8,8,CARDINAL,,,en,2.8
+Typhoon Kalmaegi,Typhoon Kalmaegi,FAC,0.06666666666666665,1.2333333333333334,en,2.8
+the next 48 hours,the next 48 hours,TIME,,,en,2.8
+"October 12, 1962","October 12, 1962",DATE,,,en,2.8
+Nov 23,Nov 23,DATE,,,en,2.8
+African,African,NORP,,,en,2.8
+year,year,DATE,,,en,2.8
+second,second,ORDINAL,,,en,2.8
+at least four,at least four,CARDINAL,,,en,2.8
+seven,seven,CARDINAL,,,en,2.8
+2007,2007,DATE,,,en,2.8
+Monday night,Monday night,TIME,,,en,2.8
+Canadian,Canadian,NORP,,,en,2.8
+October 2025,October 2025,DATE,,,en,2.8
 67,67,CARDINAL,,,en,2.8
-237,237,CARDINAL,,,en,2.8
-Millions,Millions,CARDINAL,,,en,2.8
+Typhoon Fung-wong,Typhoon Fung-wong,FAC,-0.08000000000000002,0.16000000000000003,en,2.8
+a week,a week,DATE,,,en,2.8
+up to 8 inches,up to 8 inches,QUANTITY,,,en,2.8
+Thanksgiving 2025,Thanksgiving 2025,DATE,,,en,2.8
+at least 26,at least 26,CARDINAL,,,en,2.8
+Thundercloud Rainstorm,Thundercloud Rainstorm,WORK_OF_ART,,,en,2.8
 175 mph,175 mph,QUANTITY,,,en,2.6999999999999997
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,2.3
+Jamaicans,Jamaicans,NORP,,,en,2.3
+yesterday,yesterday,DATE,,,en,2.2
 "more than 3,000","more than 3,000",CARDINAL,,,en,2.1999999999999997
-199.99,199.99,MONEY,,,en,1.9
-tens of thousands,tens of thousands,CARDINAL,,,en,1.9
-Season 3,Season 3,DATE,,,en,1.9
-Ghillies Green,Ghillies Green,FAC,,,en,1.9
-just $39.99,just $39.99,MONEY,,,en,1.9
-Season 7,Season 7,DATE,,,en,1.9
-a couple of hours ago,a couple of hours ago,TIME,,,en,1.9
-evening,evening,TIME,,,en,1.9
-at least 32,at least 32,CARDINAL,,,en,1.9
-these days,these days,DATE,,,en,1.9
-summer,summer,DATE,,,en,1.9
-This season,This season,DATE,,,en,1.9
-Typhoon Kalmaegi,Typhoon Kalmaegi,FAC,0.26666666666666666,0.8333333333333334,en,1.9
-Republican,Republican,NORP,,,en,1.9
-the 2025 season,the 2025 season,DATE,,,en,1.9
-437,437,CARDINAL,,,en,1.9
-more than 155 mph,more than 155 mph,QUANTITY,,,en,1.9
-South Australian,South Australian,NORP,,,en,1.9
-third,third,ORDINAL,,,en,1.9
-next week,next week,DATE,,,en,1.9
-up to 18 inches,up to 18 inches,QUANTITY,,,en,1.9
-1pm,1pm,TIME,,,en,1.9
-up to 12 inches,up to 12 inches,QUANTITY,,,en,1.9
-Cloudflare,Cloudflare,PRODUCT,,,en,1.9
-FIRST,FIRST,ORDINAL,,,en,1.9
-This Week,This Week,DATE,,,en,1.9
-Nov. 19,Nov. 19,DATE,,,en,1.9
-this afternoon,this afternoon,TIME,,,en,1.9
-Mexican,Mexican,NORP,,,en,1.9
-Nearly 50%,Nearly 50%,PERCENT,,,en,1.9
-State Highway 249,State Highway 249,FAC,,,en,1.9
-British,British,NORP,,,en,1.9
-Victory Road,Victory Road,FAC,,,en,1.9
-11/15-11/16,11/15-11/16,CARDINAL,,,en,1.9
-Dodger Stadium,Dodger Stadium,FAC,,,en,1.9
-day,day,DATE,,,en,1.9
-16,16,CARDINAL,,,en,1.9
-PlayStation Plus Extra,PlayStation Plus Extra,PRODUCT,,,en,1.9
-Wednesday night,Wednesday night,TIME,,,en,1.9
-half,half,CARDINAL,,,en,1.9
-12,12,CARDINAL,,,en,1.9
-4274,4274,CARDINAL,,,en,1.9
-year,year,DATE,,,en,1.9
-over a million,over a million,CARDINAL,,,en,1.9
-Winter Storm Warnings,Winter Storm Warnings,WORK_OF_ART,,,en,1.9
-million,million,CARDINAL,,,en,1.9
-Redwest Music Festival,Redwest Music Festival,EVENT,,,en,1.9
-127,127,CARDINAL,,,en,1.9
-Sunday night,Sunday night,TIME,,,en,1.9
-more than $101 billion,more than $101 billion,MONEY,,,en,1.9
-V12,V12,NORP,,,en,1.9
-2017,2017,CARDINAL,,,en,1.9
-15k,15k,CARDINAL,,,en,1.9
-Almond Green,Almond Green,FAC,,,en,1.9
-nearly 20 inches,nearly 20 inches,QUANTITY,,,en,1.9
-508 millimeters,508 millimeters,QUANTITY,,,en,1.9
 16k miles,16k miles,QUANTITY,,,en,1.9
 2006,2006,DATE,,,en,1.9
-Tonight,Tonight,TIME,,,en,1.9
-the first half of 2025,the first half of 2025,DATE,,,en,1.9
-19,19,CARDINAL,,,en,1.9
-billion-dollar,billion-dollar,MONEY,,,en,1.9
-about 10,about 10,CARDINAL,,,en,1.9
-Republicans,Republicans,NORP,,,en,1.9
-a day,a day,DATE,,,en,1.9
 2019,2019,DATE,,,en,1.9
-24 hours,24 hours,TIME,,,en,1.9
+13 feet,13 feet,QUANTITY,,,en,1.9
+Almond Green,Almond Green,FAC,,,en,1.9
+60 centimetres,60 centimetres,QUANTITY,,,en,1.9
+Hurricane Melissa Live Updates:,Hurricane Melissa Live Updates:,EVENT,,,en,1.9
+Mexican,Mexican,NORP,,,en,1.9
+19,19,CARDINAL,,,en,1.9
+35,35,MONEY,,,en,1.9
+South Australian,South Australian,NORP,,,en,1.9
+the Sao Paulo Grand Prix,the Sao Paulo Grand Prix,EVENT,,,en,1.9
+weekend,weekend,DATE,,,en,1.9
+Hurricane season,Hurricane season,DATE,,,en,1.9
+Red Code,Red Code,LAW,,,en,1.9
+last week,last week,DATE,,,en,1.9
+the week,the week,DATE,,,en,1.9
+several hours,several hours,TIME,,,en,1.9
+Season 3,Season 3,DATE,,,en,1.9
+eight,eight,CARDINAL,,,en,1.9
+at least 32,at least 32,CARDINAL,,,en,1.9
+V12,V12,NORP,,,en,1.9
+Hurricane Melissa Live Updates,Hurricane Melissa Live Updates,EVENT,,,en,1.9
+Season 7,Season 7,DATE,,,en,1.9
+PlayStation Plus Extra,PlayStation Plus Extra,PRODUCT,,,en,1.9
+This Week,This Week,DATE,,,en,1.9
+daily,daily,DATE,,,en,1.9
+Democrats,Democrats,NORP,,,en,1.9
+85,85,CARDINAL,,,en,1.9
+up to 18 inches,up to 18 inches,QUANTITY,,,en,1.9
+Cloudflare,Cloudflare,PRODUCT,,,en,1.9
+State Highway 249,State Highway 249,FAC,,,en,1.9
+FIRST,FIRST,ORDINAL,,,en,1.9
+Nearly 50%,Nearly 50%,PERCENT,,,en,1.9
+the next 72 hours,the next 72 hours,TIME,,,en,1.9
+just $39.99,just $39.99,MONEY,,,en,1.9
+199.99,199.99,MONEY,,,en,1.9
+day,day,DATE,,,en,1.9
+these days,these days,DATE,,,en,1.9
+16,16,CARDINAL,,,en,1.9
+21 crore,21 crore,MONEY,,,en,1.9
+This season,This season,DATE,,,en,1.9
+a couple of hours ago,a couple of hours ago,TIME,,,en,1.9
+Nov. 19,Nov. 19,DATE,,,en,1.9
+this afternoon,this afternoon,TIME,,,en,1.9
+Nov. 26,Nov. 26,DATE,,,en,1.9
+October 2012,October 2012,DATE,,,en,1.9
+fifth,fifth,ORDINAL,,,en,1.9
+New Year's Eve street party,New Year's Eve street party,EVENT,,,en,1.9
+Stuttgart 21,Stuttgart 21,FAC,,,en,1.9
+about $2 million,about $2 million,MONEY,,,en,1.9
+Wednesday night,Wednesday night,TIME,,,en,1.9
+Republican,Republican,NORP,,,en,1.9
+Bundeswehr,Bundeswehr,NORP,,,en,1.9
+Ghillies Green,Ghillies Green,FAC,,,en,1.9
+1pm,1pm,TIME,,,en,1.9
+English,English,LANGUAGE,,,en,1.9
+up to 10 inches,up to 10 inches,QUANTITY,,,en,1.9
+6 to 12 inches,6 to 12 inches,QUANTITY,,,en,1.9
+Pacific Cup,Pacific Cup,EVENT,,,en,1.9
+a day,a day,DATE,,,en,1.9
+76,76,CARDINAL,,,en,1.9
+five years,five years,DATE,,,en,1.9
+"Saturday, Sunday |","Saturday, Sunday |",DATE,,,en,1.9
+Monday afternoon,Monday afternoon,TIME,,,en,1.9
+Oct. 28,Oct. 28,DATE,,,en,1.9
+Des Moines International Airport,Des Moines International Airport,FAC,,,en,1.9
+Sunday night,Sunday night,TIME,,,en,1.9
+11/15-11/16,11/15-11/16,CARDINAL,,,en,1.9
 This 2017,This 2017,DATE,,,en,1.9
+15k,15k,CARDINAL,,,en,1.9
+more than 600,more than 600,CARDINAL,,,en,1.9
+this autumn,this autumn,DATE,,,en,1.9
+early winter,early winter,DATE,,,en,1.9
+15,15,CARDINAL,,,en,1.9
+late Saturday night,late Saturday night,TIME,,,en,1.9
+over a million,over a million,CARDINAL,,,en,1.9
+Tonight,Tonight,TIME,,,en,1.9
+the Mass Pike,the Mass Pike,FAC,,,en,1.9
+2003,2003,DATE,,,en,1.9
+7,7,CARDINAL,,,en,1.9
+Republicans,Republicans,NORP,,,en,1.9
+a snowy weekend,a snowy weekend,DATE,,,en,1.9
+million,million,CARDINAL,,,en,1.9
+Victory Road,Victory Road,FAC,,,en,1.9
+This Thanksgiving weekend,This Thanksgiving weekend,DATE,,,en,1.9
+about eight to twelve inches,about eight to twelve inches,QUANTITY,,,en,1.9
+437,437,CARDINAL,,,en,1.9
+about 10,about 10,CARDINAL,,,en,1.9
+three days,three days,DATE,,,en,1.9
+25,25,CARDINAL,,,en,1.9
+holiday,holiday,DATE,,,en,1.9
+more than $101 billion,more than $101 billion,MONEY,,,en,1.9
+the first half of 2025,the first half of 2025,DATE,,,en,1.9
+more than 155 mph,more than 155 mph,QUANTITY,,,en,1.9
+24 hours,24 hours,TIME,,,en,1.9
+508 millimeters,508 millimeters,QUANTITY,,,en,1.9
+nearly 20 inches,nearly 20 inches,QUANTITY,,,en,1.9
+the 2025 season,the 2025 season,DATE,,,en,1.9
+Dec. 2,Dec. 2,DATE,,,en,1.9
+Nov 13,Nov 13,DATE,,,en,1.9
+billion-dollar,billion-dollar,MONEY,,,en,1.9
+eighteen-hour,eighteen-hour,TIME,,,en,1.9
+10.9 inches,10.9 inches,QUANTITY,,,en,1.9
+European,European,NORP,,,en,1.9
+more than 22 million,more than 22 million,CARDINAL,,,en,1.9
+Dodger Stadium,Dodger Stadium,FAC,,,en,1.9
+Redwest Music Festival,Redwest Music Festival,EVENT,,,en,1.9
+4274,4274,CARDINAL,,,en,1.9
 1980,1980,DATE,,,en,1.8
 "8,300","8,300",CARDINAL,,,en,1.7999999999999998
 First,First,ORDINAL,,,en,1.7
-up to 175 mph,up to 175 mph,QUANTITY,,,en,1.4
-the 13th,the 13th,DATE,,,en,1.4
-76 centimetres,76 centimetres,QUANTITY,,,en,1.4
 less than a day,less than a day,DATE,,,en,1.4
-the year,the year,DATE,,,en,1.4
-early Monday,early Monday,DATE,,,en,1.4
+Hurricane Watch,Hurricane Watch,EVENT,,,en,1.4
+the 13th,the 13th,DATE,,,en,1.4
 "more than 8,300","more than 8,300",CARDINAL,,,en,1.4
+early Monday,early Monday,DATE,,,en,1.4
+up to 175 mph,up to 175 mph,QUANTITY,,,en,1.4
+the year,the year,DATE,,,en,1.4
 282 kph,282 kph,QUANTITY,,,en,1.4
-yesterday,yesterday,DATE,,,en,1.3
+76 centimetres,76 centimetres,QUANTITY,,,en,1.4
+185 miles per hour,185 miles per hour,QUANTITY,,,en,1.3
 up to 30 inches,up to 30 inches,QUANTITY,,,en,1.3
-five,five,CARDINAL,,,en,1.3
 more than 40,more than 40,CARDINAL,,,en,1.1
-just the past several decades,just the past several decades,DATE,,,en,1.0
-Germans,Germans,NORP,,,en,1.0
-July,July,DATE,,,en,1.0
-seven-year-old,seven-year-old,DATE,,,en,1.0
-at least six,at least six,CARDINAL,,,en,1.0
-Sunday Mornin… U.S. Treasury,Sunday Mornin… U.S. Treasury,WORK_OF_ART,,,en,1.0
-145-mph,145-mph,QUANTITY,,,en,1.0
-the next couple of years,the next couple of years,DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+18 Inches,18 Inches,QUANTITY,,,en,1.0
+the end of cuffing season,the end of cuffing season,DATE,,,en,1.0
+44,44,DATE,,,en,1.0
+22 years,22 years,DATE,,,en,1.0
+Sendayan,Sendayan,NORP,,,en,1.0
+RPG,RPG,LAW,,,en,1.0
+2,2,CARDINAL,,,en,1.0
+Thwaites,Thwaites,NORP,-0.25,0.5,en,1.0
+Nov. 20,Nov. 20,DATE,,,en,1.0
+20 per cent,20 per cent,MONEY,,,en,1.0
+Inazuma Eleven:,Inazuma Eleven:,WORK_OF_ART,,,en,1.0
+Earlier this year,Earlier this year,DATE,,,en,1.0
+Nov 15,Nov 15,DATE,,,en,1.0
+Albufeira Camping Park,Albufeira Camping Park,FAC,-0.25,0.41666666666666663,en,1.0
+7 years,7 years,DATE,,,en,1.0
+30 seconds,30 seconds,TIME,,,en,1.0
+"Nov 15, 2025","Nov 15, 2025",DATE,,,en,1.0
+the past two years,the past two years,DATE,,,en,1.0
++1987 chars,+1987 chars,WORK_OF_ART,,,en,1.0
+as much as 2.16,as much as 2.16,CARDINAL,,,en,1.0
+Debian,Debian,NORP,,,en,1.0
+next weekend,next weekend,DATE,,,en,1.0
+one-day,one-day,DATE,,,en,1.0
+$100 million,$100 million,MONEY,,,en,1.0
+Fourth,Fourth,ORDINAL,,,en,1.0
 Brit,Brit,NORP,,,en,1.0
+Sunday Mornin… U.S. Treasury,Sunday Mornin… U.S. Treasury,WORK_OF_ART,,,en,1.0
+seven-year-old,seven-year-old,DATE,,,en,1.0
+Germans,Germans,NORP,,,en,1.0
+59bn,59bn,MONEY,,,en,1.0
+later this week,later this week,DATE,,,en,1.0
+Australian,Australian,NORP,,,en,1.0
+the fourth quarter,the fourth quarter,DATE,,,en,1.0
 SECOND,SECOND,ORDINAL,,,en,1.0
-$101 Billion,$101 Billion,MONEY,,,en,1.0
+"8,469","8,469",CARDINAL,,,en,1.0
+1.94 per cent,1.94 per cent,MONEY,,,en,1.0
+early April,early April,DATE,,,en,1.0
+Skygazers,Skygazers,NORP,,,en,1.0
+more than $59 billion,more than $59 billion,MONEY,,,en,1.0
+almost five months,almost five months,DATE,,,en,1.0
+perl-CPAN,perl-CPAN,PRODUCT,,,en,1.0
+"8,450","8,450",CARDINAL,,,en,1.0
+pytho,pytho,WORK_OF_ART,,,en,1.0
+forty hours,forty hours,TIME,,,en,1.0
+nearly a fourth,nearly a fourth,CARDINAL,,,en,1.0
+"Saturday, Nov. 15","Saturday, Nov. 15",DATE,,,en,1.0
+Nov. 15,Nov. 15,DATE,,,en,1.0
 2011,2011,DATE,,,en,1.0
-Thanksgiving Weather Update: Will,Thanksgiving Weather Update: Will,WORK_OF_ART,,,en,1.0
-June,June,DATE,,,en,1.0
+The Talos Principle 2 and Tomb,The Talos Principle 2 and Tomb,PRODUCT,,,en,1.0
+PlayStation Plus Premium/Deluxe,PlayStation Plus Premium/Deluxe,PRODUCT,,,en,1.0
 Y2,Y2,CARDINAL,,,en,1.0
-As millions,As millions,CARDINAL,,,en,1.0
+last month,last month,DATE,,,en,1.0
 1.12 inches,1.12 inches,QUANTITY,,,en,1.0
 this month,this month,DATE,,,en,1.0
 "Thursday, Nov. 20","Thursday, Nov. 20",DATE,,,en,1.0
-seasons,seasons,DATE,,,en,1.0
 billions of dollars,billions of dollars,MONEY,,,en,1.0
-$100 million,$100 million,MONEY,,,en,1.0
-just hours,just hours,TIME,,,en,1.0
-2,2,CARDINAL,,,en,1.0
+just the past several decades,just the past several decades,DATE,,,en,1.0
+seasons,seasons,DATE,,,en,1.0
+As millions,As millions,CARDINAL,,,en,1.0
+Thanksgiving Weather Update: Will,Thanksgiving Weather Update: Will,WORK_OF_ART,,,en,1.0
+2012,2012,DATE,,,en,1.0
+"Thursday, November 20th","Thursday, November 20th",DATE,,,en,1.0
+10,10,CARDINAL,,,en,1.0
+more than 2 inches,more than 2 inches,QUANTITY,,,en,1.0
 up to a month's,up to a month's,DATE,,,en,1.0
-more than 30,more than 30,CARDINAL,,,en,1.0
-"More than 3,300","More than 3,300",CARDINAL,,,en,1.0
-the past few day,the past few day,DATE,,,en,1.0
-+2307,+2307,NORP,,,en,1.0
-+1396 chars,+1396 chars,WORK_OF_ART,,,en,1.0
-November 18,November 18,DATE,,,en,1.0
-The Talos Principle 2 and Tomb,The Talos Principle 2 and Tomb,PRODUCT,,,en,1.0
-PlayStation Plus Premium/Deluxe,PlayStation Plus Premium/Deluxe,PRODUCT,,,en,1.0
-daily,daily,DATE,,,en,1.0
-Debian,Debian,NORP,,,en,1.0
 firefox,firefox,PRODUCT,,,en,1.0
-perl-CPAN,perl-CPAN,PRODUCT,,,en,1.0
-pytho,pytho,WORK_OF_ART,,,en,1.0
-Skygazers,Skygazers,NORP,,,en,1.0
-last month,last month,DATE,,,en,1.0
-44,44,DATE,,,en,1.0
-next weekend,next weekend,DATE,,,en,1.0
-+1987 chars,+1987 chars,WORK_OF_ART,,,en,1.0
-7 years,7 years,DATE,,,en,1.0
-RPG,RPG,LAW,,,en,1.0
-Inazuma Eleven:,Inazuma Eleven:,WORK_OF_ART,,,en,1.0
-Hurricane W,Hurricane W,EVENT,,,en,1.0
-30 seconds,30 seconds,TIME,,,en,1.0
-Winter Storm Warning,Winter Storm Warning,WORK_OF_ART,,,en,1.0
-85,85,DATE,,,en,1.0
-Portuguese,Portuguese,NORP,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-7,7,CARDINAL,,,en,1.0
-Albufeira Camping Park,Albufeira Camping Park,FAC,-0.25,0.41666666666666663,en,1.0
-Sendayan,Sendayan,NORP,,,en,1.0
-Category 4,Category 4,LAW,,,en,1.0
-Nov. 20,Nov. 20,DATE,,,en,1.0
-18 Inches,18 Inches,QUANTITY,,,en,1.0
-Homophobic Meme,Homophobic Meme,WORK_OF_ART,,,en,1.0
-15,15,CARDINAL,,,en,1.0
-Te,Te,WORK_OF_ART,,,en,1.0
+the next couple of years,the next couple of years,DATE,,,en,1.0
+We g…,We g…,WORK_OF_ART,,,en,1.0
+SoCal,SoCal,FAC,,,en,1.0
+the second straight season,the second straight season,DATE,,,en,1.0
+the biggest travel days,the biggest travel days,DATE,,,en,1.0
+the biggest travel days of the year - NBC News,the biggest travel days of the year - NBC News,DATE,,,en,1.0
+O'Hare airport,O'Hare airport,FAC,,,en,1.0
+O'Hare International Airport,O'Hare International Airport,FAC,,,en,1.0
+weekends of the year,weekends of the year,DATE,,,en,1.0
+Delta Connection,Delta Connection,PRODUCT,-0.03333333333333333,0.5666666666666667,en,1.0
+15 inches,15 inches,QUANTITY,,,en,1.0
+1968,1968,DATE,,,en,1.0
+FOX Weather Storm Specialist,FOX Weather Storm Specialist,WORK_OF_ART,,,en,1.0
+"1,200","1,200",CARDINAL,,,en,1.0
+2025-11-30,2025-11-30,DATE,,,en,1.0
+8 Inches,8 Inches,QUANTITY,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+"1,4000","1,4000",CARDINAL,,,en,1.0
+"more than 1,4000","more than 1,4000",CARDINAL,,,en,1.0
+more than 6 inches,more than 6 inches,QUANTITY,,,en,1.0
+8 inches,8 inches,QUANTITY,,,en,1.0
+the Star Trek,the Star Trek,PRODUCT,,,en,1.0
+Sentinel,Sentinel,NORP,,,en,1.0
+Milwaukeans,Milwaukeans,NORP,,,en,1.0
++2951 chars,+2951 chars,WORK_OF_ART,,,en,1.0
+62,62,CARDINAL,,,en,1.0
+627,627,CARDINAL,,,en,1.0
+The Secrets of Consulting,The Secrets of Consulting,WORK_OF_ART,,,en,1.0
+the first quarter,the first quarter,DATE,,,en,1.0
+… Nov.,… Nov.,DATE,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+the Alexandria Blizzard 7-0,the Alexandria Blizzard 7-0,FAC,,,en,1.0
+Nov.,Nov.,DATE,,,en,1.0
+Alexandria Blizzard,Alexandria Blizzard,FAC,,,en,1.0
+"More than 1,000","More than 1,000",CARDINAL,,,en,1.0
+early December,early December,DATE,,,en,1.0
+nearly 82 million,nearly 82 million,CARDINAL,,,en,1.0
+four-week,four-week,DATE,,,en,1.0
+Martian,Martian,NORP,,,en,1.0
+Mars Crackle,Mars Crackle,PRODUCT,,,en,1.0
++1143,+1143,NORP,,,en,1.0
+"Friday, Dec. 5","Friday, Dec. 5",DATE,,,en,1.0
+"Friday, December 5","Friday, December 5",DATE,,,en,1.0
+2025-12-04,2025-12-04,DATE,,,en,1.0
+a second season,a second season,DATE,,,en,1.0
+the December Cold Moon 2025,the December Cold Moon 2025,EVENT,,,en,1.0
+Cold Moon 2025,Cold Moon 2025,EVENT,,,en,1.0
+the Emergency Bull,the Emergency Bull,WORK_OF_ART,,,en,1.0
+"today, December 4","today, December 4",DATE,,,en,1.0
+3rd winter,3rd winter,DATE,,,en,1.0
+The Gathering Storm,The Gathering Storm,WORK_OF_ART,,,en,1.0
+eight AM,eight AM,TIME,,,en,1.0
+midday,midday,TIME,,,en,1.0
+New Yo… National Weather Service (NWS,New Yo… National Weather Service (NWS,EVENT,,,en,1.0
+tomorrow,tomorrow,DATE,,,en,1.0
+Three days,Three days,DATE,,,en,1.0
+First winter,First winter,DATE,,,en,1.0
++6467 chars,+6467 chars,WORK_OF_ART,,,en,1.0
+the evening,the evening,TIME,,,en,1.0
+the next day,the next day,DATE,,,en,1.0
+"Tuesday, Dec. 2","Tuesday, Dec. 2",DATE,,,en,1.0
++3480,+3480,NORP,,,en,1.0
+2025-26,2025-26,DATE,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+full-day,full-day,DATE,,,en,1.0
+12 Inches,12 Inches,QUANTITY,,,en,1.0
+just a week,just a week,DATE,,,en,1.0
+More than 8 inc,More than 8 inc,PERCENT,,,en,1.0
+Saturdays,Saturdays,DATE,,,en,1.0
+around noon,around noon,TIME,,,en,1.0
+31,31,CARDINAL,,,en,1.0
+months,months,DATE,,,en,1.0
+31.140899624,31.140899624,CARDINAL,,,en,1.0
+more than a dozen,more than a dozen,CARDINAL,,,en,1.0
+March,March,DATE,,,en,1.0
 +1536 chars],+1536 chars],WORK_OF_ART,,,en,1.0
-October 16,October 16,DATE,,,en,1.0
-Between October 11 and 13,Between October 11 and 13,DATE,,,en,1.0
++1845 chars,+1845 chars,WORK_OF_ART,,,en,1.0
+Interstate 35,Interstate 35,FAC,,,en,1.0
+Interstate 20,Interstate 20,FAC,,,en,1.0
 249,249,CARDINAL,,,en,1.0
-pro-Nazi,pro-Nazi,NORP,,,en,1.0
-the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,FAC,,,en,1.0
 the afternoon,the afternoon,TIME,,,en,1.0
 "November 24, 2025","November 24, 2025",DATE,,,en,1.0
 about 13:30 on Saturday,about 13:30 on Saturday,TIME,,,en,1.0
 Japanese,Japanese,NORP,,,en,1.0
 Barely a month,Barely a month,DATE,,,en,1.0
 Iron Lady,Iron Lady,WORK_OF_ART,,,en,1.0
-months,months,DATE,,,en,1.0
+82 million,82 million,CARDINAL,,,en,1.0
+Springbok,Springbok,NORP,,,en,1.0
++2248 chars,+2248 chars,WORK_OF_ART,,,en,1.0
+12 inches,12 inches,QUANTITY,,,en,1.0
+Winter Storm,Winter Storm,EVENT,,,en,1.0
+Port Pirie,Port Pirie,FAC,,,en,1.0
+11/22/2025 10:16:05 AM,11/22/2025 10:16:05 AM,TIME,,,en,1.0
+Ala…,Ala…,NORP,,,en,1.0
+up to 12 Inches,up to 12 Inches,QUANTITY,,,en,1.0
+Winter Storm Warning As,Winter Storm Warning As,WORK_OF_ART,,,en,1.0
++6182 chars,+6182 chars,WORK_OF_ART,,,en,1.0
+Thanksgiving Week,Thanksgiving Week,DATE,,,en,1.0
+Evening,Evening,TIME,,,en,1.0
+"November 27, 2025","November 27, 2025",DATE,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+this holiday,this holiday,DATE,,,en,1.0
+Te,Te,WORK_OF_ART,,,en,1.0
 the busiest travel days,the busiest travel days,DATE,,,en,1.0
-Dozens,Dozens,CARDINAL,,,en,1.0
 "Monday, Nov. 24","Monday, Nov. 24",DATE,,,en,1.0
-Fixer to Fabulous’ Season 7 Is ‘Emotional,Fixer to Fabulous’ Season 7 Is ‘Emotional,WORK_OF_ART,,,en,1.0
+More than a hundred,More than a hundred,CARDINAL,,,en,1.0
+Welsh,Welsh,NORP,,,en,1.0
+all weekend,all weekend,DATE,,,en,1.0
+"more than 5,000","more than 5,000",CARDINAL,,,en,1.0
+Thanksgiving Day,Thanksgiving Day,DATE,,,en,1.0
+60 mph,60 mph,QUANTITY,,,en,1.0
+"5,000","5,000",CARDINAL,,,en,1.0
+9.09,9.09,MONEY,,,en,1.0
+Nov 28 2025,Nov 28 2025,DATE,,,en,1.0
++1328 chars,+1328 chars,WORK_OF_ART,,,en,1.0
+mid 30s,mid 30s,DATE,,,en,1.0
+cold day,cold day,DATE,,,en,1.0
+Up to 10 inches,Up to 10 inches,QUANTITY,,,en,1.0
+an estimated 82 million,an estimated 82 million,CARDINAL,,,en,1.0
+six to 10 inches,six to 10 inches,QUANTITY,,,en,1.0
+nearly 82m,nearly 82m,QUANTITY,,,en,1.0
 "100,000","100,000",CARDINAL,,,en,1.0
 "85,000","85,000",CARDINAL,,,en,1.0
+60 cm,60 cm,QUANTITY,,,en,1.0
 Fixer to Fabulous,Fixer to Fabulous,WORK_OF_ART,,,en,1.0
-We g…,We g…,WORK_OF_ART,,,en,1.0
-23,23,DATE,,,en,1.0
-January,January,DATE,,,en,1.0
+Fixer to Fabulous’ Season 7 Is ‘Emotional,Fixer to Fabulous’ Season 7 Is ‘Emotional,WORK_OF_ART,,,en,1.0
 Up to two feet,Up to two feet,QUANTITY,,,en,1.0
-More than a hundred,More than a hundred,CARDINAL,,,en,1.0
 Thanksgiving Cold,Thanksgiving Cold,EVENT,,,en,1.0
-more than an inch,more than an inch,QUANTITY,,,en,1.0
+$2M,$2M,MONEY,,,en,1.0
+winters,winters,DATE,,,en,1.0
+13 Years Later,13 Years Later,DATE,,,en,1.0
 +3170,+3170,NORP,,,en,1.0
 the days,the days,DATE,,,en,1.0
 Over 100,Over 100,CARDINAL,,,en,1.0
 "Monday, Nov. 24, days","Monday, Nov. 24, days",DATE,,,en,1.0
-+2248 chars,+2248 chars,WORK_OF_ART,,,en,1.0
-hundreds of miles,hundreds of miles,QUANTITY,,,en,1.0
-More than a thousand,More than a thousand,CARDINAL,,,en,1.0
-auroras,auroras,FAC,,,en,1.0
-nearly 82 million,nearly 82 million,CARDINAL,,,en,1.0
-The Fine Print,The Fine Print,WORK_OF_ART,,,en,1.0
-SoCal,SoCal,FAC,,,en,1.0
-the week,the week,DATE,,,en,1.0
-Fourth,Fourth,ORDINAL,,,en,1.0
-22 years,22 years,DATE,,,en,1.0
-the end of cuffing season,the end of cuffing season,DATE,,,en,1.0
-two-thirds,two-thirds,CARDINAL,,,en,1.0
-Days,Days,DATE,,,en,1.0
-Thwaites,Thwaites,NORP,-0.25,0.5,en,1.0
-20 per cent,20 per cent,MONEY,,,en,1.0
-Earlier this year,Earlier this year,DATE,,,en,1.0
-2024,2024,CARDINAL,,,en,1.0
+November 18,November 18,DATE,,,en,1.0
+At least five,At least five,CARDINAL,,,en,1.0
++3135 chars,+3135 chars,WORK_OF_ART,,,en,1.0
+late last week,late last week,DATE,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
+150 miles,150 miles,QUANTITY,,,en,1.0
+240 kilometers,240 kilometers,QUANTITY,,,en,1.0
+76 centimeters,76 centimeters,QUANTITY,,,en,1.0
+last minute,last minute,TIME,,,en,1.0
+160 mph,160 mph,QUANTITY,,,en,1.0
+Hurricane Melissa Is Category 5,Hurricane Melissa Is Category 5,EVENT,,,en,1.0
+"the public, days","the public, days",DATE,,,en,1.0
+175 MPH Winds,175 MPH Winds,QUANTITY,,,en,1.0
+Oct. 26,Oct. 26,DATE,,,en,1.0
+Tropical Tidbits,Tropical Tidbits,PRODUCT,,,en,1.0
+Oct. 27,Oct. 27,DATE,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
+Pixel 10 Pro Fold,Pixel 10 Pro Fold,PRODUCT,,,en,1.0
+up to one metre,up to one metre,QUANTITY,,,en,1.0
+Australias,Australias,NORP,,,en,1.0
+2 p.m.,2 p.m.,TIME,,,en,1.0
+the end of the weekend,the end of the weekend,DATE,,,en,1.0
+June,June,DATE,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+the late weekend,the late weekend,DATE,,,en,1.0
+a Tropical Storm Watch,a Tropical Storm Watch,PRODUCT,,,en,1.0
+July,July,DATE,,,en,1.0
+Two Feet,Two Feet,QUANTITY,,,en,1.0
+145-mph,145-mph,QUANTITY,,,en,1.0
+2000,2000,DATE,,,en,1.0
+Tropical Storm Melissa,Tropical Storm Melissa,WORK_OF_ART,,,en,1.0
+Hurricane Melissa Rapidly,Hurricane Melissa Rapidly,EVENT,,,en,1.0
+Category 4,Category 4,LAW,,,en,1.0
+Hurricane W,Hurricane W,EVENT,,,en,1.0
++3065 chars,+3065 chars,WORK_OF_ART,,,en,1.0
+eastern,eastern,NORP,,,en,1.0
+"Android Central
+","Android Central
+",PRODUCT,,,en,1.0
+16k,16k,CARDINAL,,,en,1.0
+150mph,150mph,QUANTITY,,,en,1.0
+Britons,Britons,NORP,,,en,1.0
+at least half,at least half,CARDINAL,,,en,1.0
+the Youth Asian Games,the Youth Asian Games,EVENT,,,en,1.0
+50kg,50kg,QUANTITY,,,en,1.0
+"X
+Indian","X
+Indian",NORP,,,en,1.0
+Hurricane Melissa's,Hurricane Melissa's,EVENT,,,en,1.0
+Kingston,Kingston,FAC,0.0,0.0,en,1.0
++2337 chars,+2337 chars,WORK_OF_ART,,,en,1.0
+Hurricane Hunters,Hurricane Hunters,WORK_OF_ART,,,en,1.0
+3:30 p.m,3:30 p.m,TIME,,,en,1.0
+the minute,the minute,TIME,,,en,1.0
+3.9m,3.9m,QUANTITY,,,en,1.0
+as a third,as a third,CARDINAL,,,en,1.0
+Hurricane Melissa Rips Roof Off Hospital,Hurricane Melissa Rips Roof Off Hospital,EVENT,,,en,1.0
+at least seven,at least seven,CARDINAL,,,en,1.0
+Indians,Indians,NORP,,,en,1.0
+185 MPH Winds,185 MPH Winds,QUANTITY,,,en,1.0
+just a few days,just a few days,DATE,,,en,1.0
+Hurricane Melissa Is The Strongest Storm On Earth,Hurricane Melissa Is The Strongest Storm On Earth,EVENT,,,en,1.0
+Hurricane Mellisa,Hurricane Mellisa,EVENT,,,en,1.0
+"October 26, 2025","October 26, 2025",DATE,,,en,1.0
+Night,Night,TIME,,,en,1.0
+"May 11, 2024","May 11, 2024",DATE,,,en,1.0
+Over 40 million,Over 40 million,CARDINAL,,,en,1.0
+over 170 miles per hour,over 170 miles per hour,QUANTITY,,,en,1.0
+Hurricane Katrina,Hurricane Katrina,EVENT,,,en,1.0
+Strongest Storm Approaches Jamaica,Strongest Storm Approaches Jamaica,WORK_OF_ART,,,en,1.0
+"October 28, 2025","October 28, 2025",DATE,,,en,1.0
+2022,2022,DATE,,,en,1.0
+Hurricane Melissas,Hurricane Melissas,EVENT,,,en,1.0
+Katrina,Katrina,EVENT,,,en,1.0
+404,404,CARDINAL,,,en,1.0
+just hours,just hours,TIME,,,en,1.0
+$101 Billion,$101 Billion,MONEY,,,en,1.0
+Christian,Christian,NORP,,,en,1.0
+Homophobic Meme,Homophobic Meme,WORK_OF_ART,,,en,1.0
+over millions,over millions,CARDINAL,,,en,1.0
+This year,This year,DATE,,,en,1.0
+four years ago,four years ago,DATE,,,en,1.0
+Fri,Fri,DATE,,,en,1.0
++4104,+4104,NORP,,,en,1.0
+20,20,MONEY,,,en,1.0
+This Day,This Day,DATE,,,en,1.0
+30 centimetres,30 centimetres,QUANTITY,,,en,1.0
+the season,the season,DATE,,,en,1.0
+30,30,CARDINAL,,,en,1.0
+23,23,DATE,,,en,1.0
+January,January,DATE,,,en,1.0
+more than an inch,more than an inch,QUANTITY,,,en,1.0
+French,French,NORP,,,en,1.0
+FIFA 2026 World Cup,FIFA 2026 World Cup,EVENT,,,en,1.0
+Summer 2025,Summer 2025,DATE,,,en,1.0
+a new week,a new week,DATE,,,en,1.0
 "more than 1,000 years","more than 1,000 years",DATE,,,en,1.0
-this holiday,this holiday,DATE,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
+particip,particip,WORK_OF_ART,,,en,1.0
+"Hurricane Irma
+","Hurricane Irma
+",WORK_OF_ART,,,en,1.0
+Barbudans,Barbudans,NORP,,,en,1.0
+September 2017,September 2017,DATE,,,en,1.0
+winter months,winter months,DATE,,,en,1.0
+week,week,DATE,,,en,1.0
+554,554,CARDINAL,,,en,1.0
+late Wednesday,late Wednesday,TIME,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+"Plains
+","Plains
+",NORP,,,en,1.0
+Weeks,Weeks,DATE,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+Chinese,Chinese,NORP,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+MORNING,MORNING,TIME,,,en,1.0
+next year's,next year's,DATE,,,en,1.0
+World Cup,World Cup,EVENT,,,en,1.0
+"World Cup
+","World Cup
+",EVENT,,,en,1.0
+the next 36 hours,the next 36 hours,TIME,,,en,1.0
+More than a thousand,More than a thousand,CARDINAL,,,en,1.0
 the late night hours,the late night hours,TIME,,,en,1.0
-11/22/2025 10:16:05 AM,11/22/2025 10:16:05 AM,TIME,,,en,1.0
-12 inches,12 inches,QUANTITY,,,en,1.0
-Winter Storm,Winter Storm,EVENT,,,en,1.0
 Oct. 11,Oct. 11,DATE,,,en,1.0
+2034,2034,DATE,,,en,1.0
+the Chignecto Isthmus,the Chignecto Isthmus,FAC,,,en,1.0
+2035,2035,DATE,,,en,1.0
+The next 36 hours,The next 36 hours,TIME,,,en,1.0
+the FIFA World Cup,the FIFA World Cup,EVENT,,,en,1.0
 more than US$1.5 trillion,more than US$1.5 trillion,MONEY,,,en,1.0
 "more than 7,000","more than 7,000",CARDINAL,,,en,1.0
-Port Pirie,Port Pirie,FAC,,,en,1.0
-Ala…,Ala…,NORP,,,en,1.0
-"November 27, 2025","November 27, 2025",DATE,,,en,1.0
-up to 12 Inches,up to 12 Inches,QUANTITY,,,en,1.0
-Winter Storm Warning As,Winter Storm Warning As,WORK_OF_ART,,,en,1.0
-+6182 chars,+6182 chars,WORK_OF_ART,,,en,1.0
 more than US$1,more than US$1,MONEY,,,en,1.0
-Thanksgiving Week,Thanksgiving Week,DATE,,,en,1.0
-Evening,Evening,TIME,,,en,1.0
-+3231 chars,+3231 chars,WORK_OF_ART,,,en,1.0
+90%,90%,PERCENT,,,en,1.0
+auroras,auroras,FAC,,,en,1.0
+Days,Days,DATE,,,en,1.0
+hundreds of miles,hundreds of miles,QUANTITY,,,en,1.0
+the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,FAC,,,en,1.0
+up to 100 mph,up to 100 mph,QUANTITY,,,en,1.0
++5696 chars,+5696 chars,WORK_OF_ART,,,en,1.0
+"October 12, 2025","October 12, 2025",DATE,,,en,1.0
+São Paulo Fashion Week,São Paulo Fashion Week,EVENT,,,en,1.0
+the past seven days,the past seven days,DATE,,,en,1.0
+pro-Nazi,pro-Nazi,NORP,,,en,1.0
+Between October 11 and 13,Between October 11 and 13,DATE,,,en,1.0
+October 16,October 16,DATE,,,en,1.0
+a year ago,a year ago,DATE,,,en,1.0
+a month,a month,DATE,,,en,1.0
+a few weeks,a few weeks,DATE,,,en,1.0
+Victorian,Victorian,NORP,,,en,1.0
+A year,A year,DATE,,,en,1.0
+One year,One year,DATE,,,en,1.0
+"Thursday, Oct. 16","Thursday, Oct. 16",DATE,,,en,1.0
+180 mph,180 mph,QUANTITY,,,en,1.0
+240km/h,240km/h,QUANTITY,,,en,1.0
++1396 chars,+1396 chars,WORK_OF_ART,,,en,1.0
+November 7,November 7,DATE,,,en,1.0
+Nov 8),Nov 8),DATE,,,en,1.0
+Iguaçu,Iguaçu,NORP,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+2025-11-08 1,2025-11-08 1,DATE,,,en,1.0
+around 750,around 750,CARDINAL,,,en,1.0
+"14,000","14,000",CARDINAL,,,en,1.0
+750,750,CARDINAL,,,en,1.0
+at least 204,at least 204,CARDINAL,,,en,1.0
+250km/hour,250km/hour,FAC,,,en,1.0
+155 mph,155 mph,QUANTITY,,,en,1.0
+1962,1962,DATE,,,en,1.0
+"December 22, 1962","December 22, 1962",DATE,,,en,1.0
+more than two months,more than two months,DATE,,,en,1.0
+March 8th,March 8th,DATE,,,en,1.0
+Nov 8).The,Nov 8).The,DATE,,,en,1.0
+Next week’s pre-winter,Next week’s pre-winter,DATE,,,en,1.0
+just days,just days,DATE,,,en,1.0
+over 130,over 130,CARDINAL,,,en,1.0
+"1,800 crore","1,800 crore",MONEY,,,en,1.0
+Rs 300 crore,Rs 300 crore,MONEY,,,en,1.0
+Rs 21 crore,Rs 21 crore,MONEY,,,en,1.0
+132 mph,132 mph,QUANTITY,,,en,1.0
+the end of this weekend,the end of this weekend,DATE,,,en,1.0
+nearly 200,nearly 200,CARDINAL,,,en,1.0
+American,American,NORP,,,en,1.0
+Next week's,Next week's,DATE,,,en,1.0
+Pochettino,Pochettino,NORP,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
+F1,F1,CARDINAL,,,en,1.0
+Formula 1's,Formula 1's,PRODUCT,,,en,1.0
+monthly,monthly,DATE,,,en,1.0
++2075,+2075,NORP,,,en,1.0
+Over a million,Over a million,CARDINAL,,,en,1.0
+years,years,DATE,,,en,1.0
+6 p.m,6 p.m,TIME,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+nearly seventeen thousand,nearly seventeen thousand,CARDINAL,,,en,1.0
+Up to 4 inches,Up to 4 inches,QUANTITY,,,en,1.0
 81-90,81-90,CARDINAL,,,en,1.0
-Hurricane Watch,Hurricane Watch,EVENT,,,en,1.0
-40,40,CARDINAL,,,en,1.0
-Hurricane Mellisa,Hurricane Mellisa,EVENT,,,en,1.0
-March 2025,March 2025,DATE,,,en,1.0
-"Tornado Torrent 2025""In","Tornado Torrent 2025""In",WORK_OF_ART,,,en,1.0
-"October 26, 2025","October 26, 2025",DATE,,,en,1.0
-"over 3,000 crore","over 3,000 crore",MONEY,,,en,1.0
-Reliance ED,Reliance ED,WORK_OF_ART,,,en,1.0
-"₹3,000 crore","₹3,000 crore",MONEY,,,en,1.0
-"Tornado Torrent 2025”In March 2025, thousands of eyewitnesses capture disaster at their doorsteps as extreme atmospheric volatility unleashes a massive Texas haboob","Tornado Torrent 2025”In March 2025, thousands of eyewitnesses capture disaster at their doorsteps as extreme atmospheric volatility unleashes a massive Texas haboob",WORK_OF_ART,,,en,1.0
-Over 40 million,Over 40 million,CARDINAL,,,en,1.0
-Vantage Coupe,Vantage Coupe,PRODUCT,,,en,1.0
-over 170 miles per hour,over 170 miles per hour,QUANTITY,,,en,1.0
+sixth,sixth,ORDINAL,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+Every 11 years,Every 11 years,DATE,,,en,1.0
+"more than 1,000 feet","more than 1,000 feet",QUANTITY,,,en,1.0
+at least 18,at least 18,CARDINAL,,,en,1.0
+Democratic,Democratic,NORP,,,en,1.0
+2024,2024,CARDINAL,,,en,1.0
++3231 chars,+3231 chars,WORK_OF_ART,,,en,1.0
+"More than 3,300","More than 3,300",CARDINAL,,,en,1.0
+the past few day,the past few day,DATE,,,en,1.0
++2307,+2307,NORP,,,en,1.0
++2176,+2176,NORP,,,en,1.0
++3934,+3934,NORP,,,en,1.0
+More than a million,More than a million,CARDINAL,,,en,1.0
+a record 39 days,a record 39 days,DATE,,,en,1.0
++4083,+4083,NORP,,,en,1.0
+the Pacific Cup,the Pacific Cup,EVENT,,,en,1.0
+36,36,CARDINAL,,,en,1.0
+185 kph,185 kph,QUANTITY,,,en,1.0
+Super Typhoon Fung-Wong,Super Typhoon Fung-Wong,EVENT,,,en,1.0
+1 million,1 million,CARDINAL,,,en,1.0
+countrys,countrys,NORP,,,en,1.0
+up to 1 ft,up to 1 ft,QUANTITY,,,en,1.0
+the North Star Cup,the North Star Cup,FAC,,,en,1.0
+more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.0
+Late-night,Late-night,TIME,,,en,1.0
+2020,2020,DATE,,,en,1.0
+Morning Rundown,Morning Rundown,WORK_OF_ART,,,en,1.0
+more than 105 million,more than 105 million,CARDINAL,,,en,1.0
+May 2024,May 2024,DATE,,,en,1.0
+June 2025,June 2025,DATE,,,en,1.0
+the Dazzling Northern Lights,the Dazzling Northern Lights,FAC,,,en,1.0
+at least 50,at least 50,CARDINAL,,,en,1.0
+10/30/2025,10/30/2025,CARDINAL,,,en,1.0
+"Ears of a Caracal cat
+","Ears of a Caracal cat
+",WORK_OF_ART,,,en,1.0
+October 29,October 29,DATE,,,en,1.0
+Pack in a Get Home Bag,Pack in a Get Home Bag,WORK_OF_ART,,,en,1.0
+1859,1859,DATE,,,en,1.0
++6111 chars,+6111 chars,WORK_OF_ART,,,en,1.0
 one day,one day,DATE,,,en,1.0
-Hurricane Melissa Is The Strongest Storm On Earth,Hurricane Melissa Is The Strongest Storm On Earth,EVENT,,,en,1.0
-Hurricane Katrina,Hurricane Katrina,EVENT,,,en,1.0
-more than 250,more than 250,CARDINAL,,,en,1.0
-+506 chars,+506 chars,WORK_OF_ART,,,en,1.0
-"October 28, 2025","October 28, 2025",DATE,,,en,1.0
-4:55 p.m. EDT,4:55 p.m. EDT,TIME,,,en,1.0
+Hurricane Beryl,Hurricane Beryl,EVENT,,,en,1.0
+Grand Slam,Grand Slam,WORK_OF_ART,,,en,1.0
+an hour,an hour,TIME,,,en,1.0
+Vantage Coupe,Vantage Coupe,PRODUCT,,,en,1.0
+Manendra,Manendra,WORK_OF_ART,,,en,1.0
+two consecutive days,two consecutive days,DATE,,,en,1.0
+"₹3,000 crore","₹3,000 crore",MONEY,,,en,1.0
+maybe weeks,maybe weeks,DATE,,,en,1.0
+Londoners,Londoners,NORP,,,en,1.0
+21,21,CARDINAL,,,en,1.0
+55 kmph,55 kmph,QUANTITY,,,en,1.0
+"More than 530,000","More than 530,000",CARDINAL,,,en,1.0
+"about 15,000","about 15,000",CARDINAL,,,en,1.0
+Tuesday 5 p.m,Tuesday 5 p.m,DATE,,,en,1.0
+Cyclone Montha,Cyclone Montha,WORK_OF_ART,,,en,1.0
+Cyclone Montha Bengal Weather Update,Cyclone Montha Bengal Weather Update,WORK_OF_ART,,,en,1.0
+35-45 kmph,35-45 kmph,QUANTITY,,,en,1.0
+"Wednesday, October 29","Wednesday, October 29",DATE,,,en,1.0
+a day earlier,a day earlier,DATE,,,en,1.0
+up to 185 miles per hour,up to 185 miles per hour,QUANTITY,,,en,1.0
+Typhoon,Typhoon,WORK_OF_ART,,,en,1.0
+Yup’ik Village Site,Yup’ik Village Site,FAC,,,en,1.0
+as much as 60 feet,as much as 60 feet,QUANTITY,,,en,1.0
+Hurricane Melissa Show,Hurricane Melissa Show,EVENT,,,en,1.0
+October 28,October 28,DATE,,,en,1.0
+Reliance ED,Reliance ED,WORK_OF_ART,,,en,1.0
+"over 3,000 crore","over 3,000 crore",MONEY,,,en,1.0
+"Tornado Torrent 2025""In","Tornado Torrent 2025""In",WORK_OF_ART,,,en,1.0
+at least 114,at least 114,CARDINAL,,,en,1.0
++4010 chars,+4010 chars,WORK_OF_ART,,,en,1.0
+the past week's,the past week's,DATE,,,en,1.0
+50B,50B,MONEY,,,en,1.0
+At least 85,At least 85,CARDINAL,,,en,1.0
+75,75,CARDINAL,,,en,1.0
+at least 85,at least 85,CARDINAL,,,en,1.0
+"Thursday, Friday","Thursday, Friday",DATE,,,en,1.0
+March 2025,March 2025,DATE,,,en,1.0
+Friday morning,Friday morning,TIME,,,en,1.0
+Last month,Last month,DATE,,,en,1.0
+earlier,earlier,DATE,,,en,1.0
+"Thunderstorms Hit, Asthma Can Become an ER Nightmare","Thunderstorms Hit, Asthma Can Become an ER Nightmare",WORK_OF_ART,,,en,1.0
+140,140,CARDINAL,,,en,1.0
+Sue Bird,Sue Bird,WORK_OF_ART,,,en,1.0
+12%,12%,PERCENT,,,en,1.0
 18 km/h,18 km/h,QUANTITY,,,en,1.0
 11 mph,11 mph,QUANTITY,,,en,1.0
 7%,7%,PERCENT,,,en,1.0
 230 km/h,230 km/h,QUANTITY,,,en,1.0
 145 mph,145 mph,QUANTITY,,,en,1.0
 "Sunday, Oct. 26","Sunday, Oct. 26",DATE,,,en,1.0
+4:55 p.m. EDT,4:55 p.m. EDT,TIME,,,en,1.0
 "More than 70,000","More than 70,000",CARDINAL,,,en,1.0
-last week,last week,DATE,,,en,1.0
 +5258 chars,+5258 chars,WORK_OF_ART,,,en,1.0
 "over 10,000","over 10,000",CARDINAL,,,en,1.0
 Oscar,Oscar,PRODUCT,,,en,1.0
 the King of the Monsters,the King of the Monsters,WORK_OF_ART,,,en,1.0
-just a few days,just a few days,DATE,,,en,1.0
 Sequel Goes Back to Zero,Sequel Goes Back to Zero,WORK_OF_ART,,,en,1.0
-+6111 chars,+6111 chars,WORK_OF_ART,,,en,1.0
-1859,1859,DATE,,,en,1.0
-+4010 chars,+4010 chars,WORK_OF_ART,,,en,1.0
-13 feet,13 feet,QUANTITY,,,en,1.0
-at least seven,at least seven,CARDINAL,,,en,1.0
-185 miles per hour,185 miles per hour,QUANTITY,,,en,1.0
-Hurricane Melissa Live Updates:,Hurricane Melissa Live Updates:,EVENT,,,en,1.0
-Hurricane Melissa Rips Roof Off Hospital,Hurricane Melissa Rips Roof Off Hospital,EVENT,,,en,1.0
-as a third,as a third,CARDINAL,,,en,1.0
-3.9m,3.9m,QUANTITY,,,en,1.0
-+2337 chars,+2337 chars,WORK_OF_ART,,,en,1.0
-180 mph,180 mph,QUANTITY,,,en,1.0
-Jamaicans,Jamaicans,NORP,,,en,1.0
-Katrina,Katrina,EVENT,,,en,1.0
-Britons,Britons,NORP,,,en,1.0
-Kingston,Kingston,FAC,0.0,0.0,en,1.0
-Hurricane Melissa's,Hurricane Melissa's,EVENT,,,en,1.0
-404,404,CARDINAL,,,en,1.0
-Hurricane Melissas,Hurricane Melissas,EVENT,,,en,1.0
-150mph,150mph,QUANTITY,,,en,1.0
-Pack in a Get Home Bag,Pack in a Get Home Bag,WORK_OF_ART,,,en,1.0
-Typhoon,Typhoon,WORK_OF_ART,,,en,1.0
-Londoners,Londoners,NORP,,,en,1.0
-a day earlier,a day earlier,DATE,,,en,1.0
-October 28,October 28,DATE,,,en,1.0
-Hurricane Melissa Show,Hurricane Melissa Show,EVENT,,,en,1.0
-as much as 60 feet,as much as 60 feet,QUANTITY,,,en,1.0
-Yup’ik Village Site,Yup’ik Village Site,FAC,,,en,1.0
-up to 185 miles per hour,up to 185 miles per hour,QUANTITY,,,en,1.0
-240km/h,240km/h,QUANTITY,,,en,1.0
-2022,2022,DATE,,,en,1.0
-"Wednesday, October 29","Wednesday, October 29",DATE,,,en,1.0
-55 kmph,55 kmph,QUANTITY,,,en,1.0
-35-45 kmph,35-45 kmph,QUANTITY,,,en,1.0
-Cyclone Montha Bengal Weather Update,Cyclone Montha Bengal Weather Update,WORK_OF_ART,,,en,1.0
-Cyclone Montha,Cyclone Montha,WORK_OF_ART,,,en,1.0
-12%,12%,PERCENT,,,en,1.0
-50B,50B,MONEY,,,en,1.0
-Democrats,Democrats,NORP,,,en,1.0
-a record 39 days,a record 39 days,DATE,,,en,1.0
-more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.0
-the North Star Cup,the North Star Cup,FAC,,,en,1.0
-last minute,last minute,TIME,,,en,1.0
-countrys,countrys,NORP,,,en,1.0
-160 mph,160 mph,QUANTITY,,,en,1.0
-14,14,CARDINAL,,,en,1.0
-1 million,1 million,CARDINAL,,,en,1.0
-2020,2020,DATE,,,en,1.0
-Super Typhoon Fung-Wong,Super Typhoon Fung-Wong,EVENT,,,en,1.0
-185 kph,185 kph,QUANTITY,,,en,1.0
-+4083,+4083,NORP,,,en,1.0
-More than a million,More than a million,CARDINAL,,,en,1.0
-years,years,DATE,,,en,1.0
-Hurricane season,Hurricane season,DATE,,,en,1.0
-Late-night,Late-night,TIME,,,en,1.0
-Morning Rundown,Morning Rundown,WORK_OF_ART,,,en,1.0
-Over a million,Over a million,CARDINAL,,,en,1.0
-Hurricane Hunters,Hurricane Hunters,WORK_OF_ART,,,en,1.0
-Democratic,Democratic,NORP,,,en,1.0
-"more than 1,000 feet","more than 1,000 feet",QUANTITY,,,en,1.0
-150 miles,150 miles,QUANTITY,,,en,1.0
-240 kilometers,240 kilometers,QUANTITY,,,en,1.0
-11,11,CARDINAL,,,en,1.0
-sixth,sixth,ORDINAL,,,en,1.0
-Up to 4 inches,Up to 4 inches,QUANTITY,,,en,1.0
-more than 105 million,more than 105 million,CARDINAL,,,en,1.0
-nearly seventeen thousand,nearly seventeen thousand,CARDINAL,,,en,1.0
-+2176,+2176,NORP,,,en,1.0
-at least 18,at least 18,CARDINAL,,,en,1.0
-76 centimeters,76 centimeters,QUANTITY,,,en,1.0
-+3934,+3934,NORP,,,en,1.0
-up to 1 ft,up to 1 ft,QUANTITY,,,en,1.0
-just days,just days,DATE,,,en,1.0
-March 8th,March 8th,DATE,,,en,1.0
-eight,eight,CARDINAL,,,en,1.0
-21,21,CARDINAL,,,en,1.0
-American,American,NORP,,,en,1.0
-the end of this weekend,the end of this weekend,DATE,,,en,1.0
-132 mph,132 mph,QUANTITY,,,en,1.0
-May 2024,May 2024,DATE,,,en,1.0
-June 2025,June 2025,DATE,,,en,1.0
-the Dazzling Northern Lights,the Dazzling Northern Lights,FAC,,,en,1.0
-"Android Central
-","Android Central
-",PRODUCT,,,en,1.0
-at least 204,at least 204,CARDINAL,,,en,1.0
-140,140,CARDINAL,,,en,1.0
-hours,hours,TIME,,,en,1.0
-earlier,earlier,DATE,,,en,1.0
-2 p.m.,2 p.m.,TIME,,,en,1.0
-Last month,Last month,DATE,,,en,1.0
-16k,16k,CARDINAL,,,en,1.0
-Pixel 10 Pro Fold,Pixel 10 Pro Fold,PRODUCT,,,en,1.0
-200,200,CARDINAL,,,en,1.0
-more than two months,more than two months,DATE,,,en,1.0
-2025-11-08 1,2025-11-08 1,DATE,,,en,1.0
-"December 22, 1962","December 22, 1962",DATE,,,en,1.0
-1962,1962,DATE,,,en,1.0
-Hurricane Melissa Is Category 5,Hurricane Melissa Is Category 5,EVENT,,,en,1.0
-155 mph,155 mph,QUANTITY,,,en,1.0
-250km/hour,250km/hour,FAC,,,en,1.0
-750,750,CARDINAL,,,en,1.0
-175 MPH Winds,175 MPH Winds,QUANTITY,,,en,1.0
-last year's,last year's,DATE,,,en,1.0
-6,6,CARDINAL,,,en,1.0
-Oct. 26,Oct. 26,DATE,,,en,1.0
-Iguaçu,Iguaçu,NORP,,,en,1.0
-Tropical Tidbits,Tropical Tidbits,PRODUCT,,,en,1.0
-Oct. 27,Oct. 27,DATE,,,en,1.0
-at least five,at least five,CARDINAL,,,en,1.0
-all weekend,all weekend,DATE,,,en,1.0
++506 chars,+506 chars,WORK_OF_ART,,,en,1.0
+"Tornado Torrent 2025”In March 2025, thousands of eyewitnesses capture disaster at their doorsteps as extreme atmospheric volatility unleashes a massive Texas haboob","Tornado Torrent 2025”In March 2025, thousands of eyewitnesses capture disaster at their doorsteps as extreme atmospheric volatility unleashes a massive Texas haboob",WORK_OF_ART,,,en,1.0
+more than 250,more than 250,CARDINAL,,,en,1.0
+rover,rover,PRODUCT,,,en,1.0
