@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'tornado',en,Hazard,#ff0000,#ff0000,3,0.2665169877880651
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2561427017314497
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2536183190379784
 'sandstorm',en,Hazard,#ff0000,#ff0000,3,0.2526548924010312
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.2517774354478428
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.2386414690007924
+'tornado',en,Hazard,#ff0000,#ff0000,3,0.2313461596198553
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2293621337151369
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.2218526562499999
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.2150692710979931
