@@ -13,6 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.1885747578124999
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1875846392979341
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.1855625725834545
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1681107016133375
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.1626759325620511
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.15191500637133687
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.1379508140566314
