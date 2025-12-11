@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.2386414690007924
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.2313461596198553
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.2150692710979931
-'blizzard',en,Hazard,#ff0000,#ff0000,3,0.20809897683968454
+'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2080989768396845
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.2001725081435685
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.1961107336252626
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.1885747578124999
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1875846392979341
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.1855625725834545
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.16729418358147322
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.1626759325620511
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.1602885441406249
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1519150063713368
