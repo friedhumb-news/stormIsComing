@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.2312352724033936
-'storm cause',en,Causes,#00ffff,#00ffff,3,0.22452963865067352
+'storm cause',en,Causes,#00ffff,#00ffff,3,0.2245296386506735
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2152766711146087
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.2150692710979931
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.2147576035408765
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.1379508140566314
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.1362452625195311
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.1362452625195311
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.1191985555260818
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.10236889219716953
