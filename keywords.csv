@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1797938480526181
 'dust devil',en,Hazard,#ff0000,#ff0000,3,0.1611790416959363
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1519150063713368
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.1429501310442522
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.1362452625195311
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.1257222956078685
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.12225768638761436
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1219703415155852
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.1174082069481367
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.1158084731416014
