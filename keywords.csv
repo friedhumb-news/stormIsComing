@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1878442589299429
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.187344698009745
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1797938480526181
-'storm damages',en,Impacts,#ffff00,#ffff00,3,0.17799638202156454
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1746879973272007
 'dust devil',en,Hazard,#ff0000,#ff0000,3,0.1611790416959363
+'storm damages',en,Impacts,#ffff00,#ffff00,3,0.15564848471832984
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1519150063713368
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.1257222956078685
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.1222576863876143
