@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2281272998074032
-'storm cause',en,Causes,#00ffff,#00ffff,3,0.2181635274044899
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2166942095437136
+'storm cause',en,Causes,#00ffff,#00ffff,3,0.2113421382938164
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2050923267900258
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1797938480526181
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1710754348333837
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.1610436683082832
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1556484847183298
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.148063678367594
-'dust devil',en,Hazard,#ff0000,#ff0000,2,0.13685812357985938
+'dust devil',en,Hazard,#ff0000,#ff0000,2,0.1368581235798593
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1323743155578362
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.1257222956078685
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1068253980859193
