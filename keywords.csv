@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1323743155578362
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.1257222956078685
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1068253980859193
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.1046691084294721
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.08367162184480702
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.08971881716505128
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.083671621844807
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0726583705920243
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0711208785680859
