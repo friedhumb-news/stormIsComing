@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.1178926198527345
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.1101642962666882
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1068253980859193
-'scirocco',en,Hazard,#ff0000,#ff0000,1,0.062059645003220656
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.051384834765442
+'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0620596450032206
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0496515337996388
+nor'wester,en,Hazard,#ff0000,#ff0000,1,0.043677109550625696
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0436771095506256
