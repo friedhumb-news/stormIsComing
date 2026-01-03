@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2304204898362927
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.2058586845419548
-'storm',en,Hazard,#ff0000,#ff0000,3,0.1803900322935992
+'storm',en,Hazard,#ff0000,#ff0000,3,0.18259736744955934
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1637143557744682
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1601910124103898
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1535364547267291
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0620596450032206
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0496515337996388
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0436771095506256
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.026823204902777863
+nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0268232049027778
