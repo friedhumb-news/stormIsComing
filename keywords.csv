@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2357791529279332
 'storm',en,Hazard,#ff0000,#ff0000,3,0.200318873974149
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1791868999425953
-'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1499866895946428
+'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.15820925282211307
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1495251842833075
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.1442542316124548
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1402464013127802
