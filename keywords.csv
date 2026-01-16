@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1402464013127802
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1397232887097768
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.138081764898796
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.1226160968705865
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.1078888832864483
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.10422368233999853
 'sandstorm',en,Hazard,#ff0000,#ff0000,1,0.1002091018748243
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0995482955526821
-'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.09949610236707668
+'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0994961023670766
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.0849237179036974
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0568463064220006
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0553240222125872
