@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.0985409074581485
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0917086458433196
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.089899594739282
-'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0813247349697185
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0747211872937907
+'dust devil',en,Hazard,#ff0000,#ff0000,1,0.06912647472426071
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0568463064220006
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0334117246145064
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.007309069187188145
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0073090691871881
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0016929042853089
