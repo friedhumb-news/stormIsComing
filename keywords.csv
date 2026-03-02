@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.146825709781299
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1422691421266189
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.1089207995491022
-'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.10879188332249404
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1010081612521485
+'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0929236408241199
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0925043674190741
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0735401272766451
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0726195554587005
