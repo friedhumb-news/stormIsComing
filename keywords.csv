@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'storm',en,Hazard,#ff0000,#ff0000,3,0.22025141343895893
+'storm',en,Hazard,#ff0000,#ff0000,3,0.2202514134389589
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1861795646070443
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.183167875733459
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1652622832207878
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0430052830319717
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.002866770433147
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0019916521003635
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0001068449847659
+nor'wester,en,Hazard,#ff0000,#ff0000,1,9.0818237051015e-05
