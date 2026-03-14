@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'storm',en,Hazard,#ff0000,#ff0000,3,0.2202514134389589
+'storm',en,Hazard,#ff0000,#ff0000,3,0.2077047668776605
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.183167875733459
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.174588886279624
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1652622832207878
@@ -13,6 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0637092281851483
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0467682878647609
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0430052830319717
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.0025867698681749495
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.0025867698681749
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0019916521003635
 nor'wester,en,Hazard,#ff0000,#ff0000,1,9.0818237051015e-05
