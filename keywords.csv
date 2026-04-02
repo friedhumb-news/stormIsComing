@@ -16,3 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0346719574905995
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0018283515878738
 nor'wester,en,Hazard,#ff0000,#ff0000,1,6.561617626935834e-05
+'downburst',en,Hazard,#ff0010,#ff0010,2,0.7515748356333198
