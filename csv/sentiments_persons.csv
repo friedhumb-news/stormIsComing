@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Storm Goretti,Storm Goretti,PERSON,-0.05319221628045158,0.34842712842712825,en,51.000000000000014
+Storm Goretti,Storm Goretti,PERSON,-0.05298443418560606,0.34706608495670976,en,51.20000000000002
 Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.07398776893123626,0.2591300659139856,en,19.9
 Zohran Mamdani,Zohran Mamdani,PERSON,0.030603240375339825,0.5614421643427168,en,18.1
 Donald Trump,Donald Trump,PERSON,-0.06390646976090014,0.1722925457102672,en,15.800000000000002
@@ -507,8 +507,8 @@ Kai Wegner,Kai Wegner,PERSON,0.0,0.0,en,1.0
 Storm Amy,Storm Amy,PERSON,0.0,0.0,en,1.0
 Bishop Walsh falls,Bishop Walsh falls,PERSON,0.0,0.0,en,1.0
 flight cancella,flight cancella,PERSON,0.0,0.0,en,1.0
-Edmund Fitzge,Edmund Fitzge,PERSON,0.7,0.9,en,1.0
 Lab Chip,Lab Chip,PERSON,0.0,0.0,en,1.0
+Edmund Fitzge,Edmund Fitzge,PERSON,0.7,0.9,en,1.0
 Jill Scott,Jill Scott,PERSON,-0.2,0.2,en,1.0
 Marc Vetri,Marc Vetri,PERSON,-0.2,0.2,en,1.0
 Katie Mi,Katie Mi,PERSON,0.0,0.0,en,1.0
