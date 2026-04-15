@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1732970107626688
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1487553356085012
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1364787974601583
+'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.11294898714691966
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1103544398151171
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1076951701336747
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1010081612521485
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.0984557838343678
-'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0835766030950478
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0690231533461356
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0436063778092041
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0409531796850467
