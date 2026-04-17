@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.3923267615433156
-'blizzard',en,Hazard,#ff0000,#ff0000,3,0.26507867383702827
+'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2650786738370282
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2160682546920493
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1732970107626688
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1487553356085012
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1358290961972224
-'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.1129489871469196
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1103544398151171
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1076951701336747
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1010081612521485
+'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.09870740407488166
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.0984557838343678
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0690231533461356
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0436063778092041
