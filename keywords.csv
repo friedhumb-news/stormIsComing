@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.2047970215678702
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1628888241482684
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1487553356085012
-'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1358290961972224
+'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.14308282883660456
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1192532070643262
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1103544398151171
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1076951701336747
