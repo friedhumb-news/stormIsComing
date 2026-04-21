@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1076951701336747
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0987074040748816
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.0984557838343678
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.08368046015286361
+nor'wester,en,Hazard,#ff0000,#ff0000,1,0.07142842112993406
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0696587132806806
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0690231533461356
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0563041738496927
