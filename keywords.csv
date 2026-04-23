@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'downburst',en,Hazard,#ff0010,#ff0010,2,0.2831158630827861
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2462445746877547
-'blizzard',en,Hazard,#ff0000,#ff0000,3,0.22258571370816282
+'downburst',en,Hazard,#ff0010,#ff0010,2,0.24079849862036817
+'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2225857137081628
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1628888241482684
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1487553356085012
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1430828288366045
