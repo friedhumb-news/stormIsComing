@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm',en,Hazard,#ff0000,#ff0000,3,0.3056246504619027
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.2224797405260281
-'blizzard',en,Hazard,#ff0000,#ff0000,3,0.21041297165193837
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,2,0.1938196953442152
+'blizzard',en,Hazard,#ff0000,#ff0000,3,0.2104129716519383
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.1647467560425829
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.1487553356085012
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.1481579165527334
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1430828288366045
