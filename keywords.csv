@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1028270305287228
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0987074040748816
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0982383462592126
-'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0756643266642995
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0696587132806806
+'scirocco',en,Hazard,#ff0000,#ff0000,1,0.06521476766465457
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0446378063014206
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0357103077322896
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0314218688670095
