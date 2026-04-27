@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.1481579165527334
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1296221895111138
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1286034302903915
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.11930705899076609
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.1178202133975009
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.119307058990766
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1103544398151171
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1028270305287228
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.10074724138787576
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0987074040748816
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0982383462592126
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0696587132806806
