@@ -2,16 +2,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm',en,Hazard,#ff0000,#ff0000,3,0.2730982678926172
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.244207281589981
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.193125345267226
-'blizzard',en,Hazard,#ff0000,#ff0000,3,0.19035874504787317
+'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1903587450478731
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.1481579165527334
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1296221895111138
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1286034302903915
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1103544398151171
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1028270305287228
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.1015610151421511
-'haboob',en,Hazard,#ff0000,#ff0000,1,0.1007472413878757
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0987074040748816
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0982383462592126
+'haboob',en,Hazard,#ff0000,#ff0000,1,0.08623521517969435
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0696587132806806
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0652147676646545
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0357103077322896
