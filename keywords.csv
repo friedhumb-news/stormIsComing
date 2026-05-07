@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.1031770284636493
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.1028270305287228
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0877036743203307
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0864768778708284
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.07365536119020415
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0696587132806806
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0662948049803481
 'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0652147676646545
