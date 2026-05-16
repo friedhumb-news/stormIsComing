@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.2010873772309088
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1696184624215448
+'dust storm',en,Hazard,#ff0000,#ff0000,3,0.14969313425395817
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.146867646248317
-'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1368205814752449
-'storm',en,Hazard,#ff0000,#ff0000,3,0.12437960327168981
+'storm',en,Hazard,#ff0000,#ff0000,3,0.1243796032716898
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1223016273857023
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.1149810660844467
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.1031770284636493
