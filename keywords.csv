@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.0698893584666997
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.0525246965806922
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0506049994434979
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0384485588872938
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.033619380173686
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.03268127505419973
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0299717074779004
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.028209233536958
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0277433915865791
