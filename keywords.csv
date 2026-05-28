@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.033619380173686
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0299717074779004
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.028209233536958
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0277790837960697
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0277433915865791
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.023612221226659243
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0154878528264659
