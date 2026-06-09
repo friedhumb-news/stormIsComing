@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0506049994434979
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0306998749804521
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0277433915865791
-'downburst',en,Hazard,#ff0010,#ff0010,1,0.021654558652783
+'downburst',en,Hazard,#ff0010,#ff0010,1,0.01840637485486555
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0115505307753238
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.008047578678069994
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0080475786780699
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0071003663459147
