@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.0374670554572878
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0306998749804521
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0184063748548655
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0080475786780699
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.006990456876359415
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0047464260696847
