@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.1014647205896436
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.0989614655602978
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0902184969102995
-'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0866308256913271
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.0770377704921904
+'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.07528687683762804
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.064184379068112
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.0465676545717084
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0428096340421666
