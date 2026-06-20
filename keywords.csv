@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.0465676545717084
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0428096340421666
 'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.0357474321386946
-'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0262454037333842
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.00532813284316959
+'dust devil',en,Hazard,#ff0000,#ff0000,2,0.02275913317337657
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0053281328431695
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0041844771592319
