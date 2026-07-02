@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2177511232769256
+'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.19413987887629586
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1807965638455294
 'storm',en,Hazard,#ff0000,#ff0000,3,0.1501593541612661
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1193368426469855
@@ -16,4 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.0347357973178904
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.01949577319737
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0037068205853471
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.002387568166848755
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0023875681668487
