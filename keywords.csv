@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0744659314047308
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0498358605809426
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0465171280621757
-'scirocco',en,Hazard,#ff0000,#ff0000,1,0.039582566385952145
+'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0395825663859521
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0385808230954653
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0262524916350998
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0231644115003036
-nor'wester,en,Hazard,#ff0000,#ff0000,1,0.003150797497545
+nor'wester,en,Hazard,#ff0000,#ff0000,1,0.00267817787291325
 'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0020294329418213
