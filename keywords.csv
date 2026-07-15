@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'storm',en,Hazard,#ff0000,#ff0000,3,0.186183657044167
+'storm',en,Hazard,#ff0000,#ff0000,3,0.17605790961657422
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.164458106720666
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.1427552711536802
 'storm damages',en,Impacts,#ffff00,#ffff00,3,0.0980743559076304
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0498358605809426
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0465171280621757
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0385808230954653
-'scirocco',en,Hazard,#ff0000,#ff0000,1,0.034245241428059285
+'scirocco',en,Hazard,#ff0000,#ff0000,1,0.0342452414280592
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0262524916350998
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.019989779775258
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0026781778729132
