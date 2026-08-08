@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.0979652445609061
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.095414477448865
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0943000793249807
-'haboob',en,Hazard,#ff0000,#ff0000,2,0.0891389833361615
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.0777878567180575
-'storm damages',en,Impacts,#ffff00,#ffff00,2,0.062117735739404836
+'haboob',en,Hazard,#ff0000,#ff0000,2,0.07651821083573729
+'storm damages',en,Impacts,#ffff00,#ffff00,2,0.0621177357394048
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0493639170136601
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0435610964938012
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0420898138528493
