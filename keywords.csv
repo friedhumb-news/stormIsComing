@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm damages',en,Impacts,#ffff00,#ffff00,2,0.0618061477922871
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0470265817749219
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0417913170419474
+'dust devil',en,Hazard,#ff0000,#ff0000,2,0.038358807530281
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0359429577923693
-'dust devil',en,Hazard,#ff0000,#ff0000,2,0.0356720361836323
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.0340593252138503
 'derecho',en,Hazard,#ff0000,#ff0000,1,0.0311593255038038
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.00039954340157035
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0003995434015703
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0003238064175811
