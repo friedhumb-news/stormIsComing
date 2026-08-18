@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0907012083295399
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.0751635123012579
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0716316132167713
-'derecho',en,Hazard,#ff0000,#ff0000,2,0.0641633294055059
+'derecho',en,Hazard,#ff0000,#ff0000,2,0.0635803690855891
 'storm damages',en,Impacts,#ffff00,#ffff00,2,0.0618061477922871
 'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0470265817749219
 'dust devil',en,Hazard,#ff0000,#ff0000,2,0.038358807530281
