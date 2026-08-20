@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm warning',en,Mitigation,#00ff00,#00ff00,3,0.2251252367417321
-'storm',en,Hazard,#ff0000,#ff0000,3,0.15715855733255432
+'storm',en,Hazard,#ff0000,#ff0000,3,0.1571585573325543
 'tornado',en,Hazard,#ff0000,#ff0000,3,0.1401668463185111
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.0979652445609061
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.095414477448865
@@ -16,4 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0273171327658858
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0259687870049868
 nor'wester,en,Hazard,#ff0000,#ff0000,1,0.0003238064175811
-'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.0002886701076344
+'kalbaisakhi',en,Hazard,#ff0000,#ff0000,1,0.00024536959148924
