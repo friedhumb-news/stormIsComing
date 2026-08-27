@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0716316132167713
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0671757469045689
 'storm damages',en,Impacts,#ffff00,#ffff00,2,0.0618061477922871
-'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.0470265817749219
-'dust devil',en,Hazard,#ff0000,#ff0000,1,0.03090250494062798
+'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.04804566678141089
+'dust devil',en,Hazard,#ff0000,#ff0000,1,0.0309025049406279
 'scirocco',en,Hazard,#ff0000,#ff0000,2,0.0279245274670067
 'downburst',en,Hazard,#ff0010,#ff0010,1,0.0259687870049868
 'haboob',en,Hazard,#ff0000,#ff0000,1,0.0183197885098495
