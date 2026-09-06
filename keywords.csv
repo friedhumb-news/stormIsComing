@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blizzard',en,Hazard,#ff0000,#ff0000,3,0.1263704648031168
 'storm cause',en,Causes,#00ffff,#00ffff,3,0.095414477448865
 'dust storm',en,Hazard,#ff0000,#ff0000,3,0.0926746932474847
-'downburst',en,Hazard,#ff0010,#ff0010,1,0.0829217956372309
 'storm deaths',en,Impacts,#ffff00,#ffff00,3,0.0786110511376588
 'storm prevention',en,Adaptation,#0000ff,#0000ff,3,0.0719506246937877
 'sandstorm',en,Hazard,#ff0000,#ff0000,2,0.0716316132167713
+'downburst',en,Hazard,#ff0010,#ff0010,1,0.07078355629164627
 'derecho',en,Hazard,#ff0000,#ff0000,2,0.0671757469045689
 'storm damages',en,Impacts,#ffff00,#ffff00,2,0.0618061477922871
 'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.0480456667814108
