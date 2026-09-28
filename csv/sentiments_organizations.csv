@@ -241,14 +241,14 @@ MSI,MSI,ORG,0.4508448540706606,0.7457757296466974,en,3.0999999999999996
 amazon.com,amazon.com,ORG,0.016129032258064523,0.0,en,3.0999999999999996
 Nintendo Switch 2,Nintendo Switch 2,ORG,0.2308569566634083,0.4027370478983383,en,3.0999999999999996
 Green Bay,Green Bay,ORG,-0.07588325652841783,0.2414234511008705,en,3.0999999999999996
-Senyar,Senyar,ORG,-0.24999999999999997,0.0,en,2.8
+ZDNET,ZDNET,ORG,0.0,0.35714285714285715,en,2.8
 Spygate,Spygate,ORG,-0.12380952380952383,0.6071428571428572,en,2.8
 SurvivalBlog,SurvivalBlog,ORG,-0.04761904761904762,0.29464285714285715,en,2.8
 Florida Realtors,Florida Realtors,ORG,0.07142857142857144,0.10714285714285716,en,2.8
 Kalmaegi,Kalmaegi,ORG,-0.032727272727272744,0.16233766233766234,en,2.8
 El Nino,El Nino,ORG,0.6696428571428572,0.5357142857142857,en,2.8
+Senyar,Senyar,ORG,-0.24999999999999997,0.0,en,2.8
 KLIA,KLIA,ORG,0.004464285714285713,0.17708333333333334,en,2.8
-ZDNET,ZDNET,ORG,0.0,0.35714285714285715,en,2.8
 the Twin Cities,the Twin Cities,ORG,-0.05044063079777366,0.13435374149659865,en,2.8
 Fox,Fox,ORG,-0.47321428571428575,0.4910714285714286,en,2.8
 NATO,NATO,ORG,0.1904761904761905,0.35714285714285715,en,2.8
@@ -422,7 +422,7 @@ eastern Sierra Nevada,eastern Sierra Nevada,ORG,0.17543859649122806,0.3216374269
 GalaxyGato,GalaxyGato,ORG,-0.014619883040935668,0.2631578947368421,en,1.9
 Panjab University,Panjab University,ORG,0.017543859649122806,0.03508771929824561,en,1.9
 Burnham,Burnham,ORG,0.09210526315789473,0.22368421052631576,en,1.9
-COMEX,COMEX,ORG,-0.2105263157894737,0.34135338345864663,en,1.9
+Manchester United co-,Manchester United co-,ORG,0.0,0.0,en,1.9
 Training Grounds,Training Grounds,ORG,0.14354066985645933,0.23923444976076555,en,1.9
 the Wisconsin Timber Rattlers,the Wisconsin Timber Rattlers,ORG,0.2631578947368421,0.2631578947368421,en,1.9
 Braves,Braves,ORG,-0.06578947368421052,0.052631578947368425,en,1.9
@@ -505,7 +505,7 @@ Amazon Exclusive,Amazon Exclusive,ORG,0.10526315789473685,0.052631578947368425,e
 Nature,Nature,ORG,-0.028508771929824563,0.4385964912280702,en,1.9
 MUDDYCOAST,MUDDYCOAST,ORG,0.0706311232627022,0.08430166324903167,en,1.9
 Capcom,Capcom,ORG,-0.4385964912280702,0.14619883040935674,en,1.9
-Manchester United co-,Manchester United co-,ORG,0.0,0.0,en,1.9
+COMEX,COMEX,ORG,-0.2105263157894737,0.34135338345864663,en,1.9
 IRD,IRD,ORG,0.1674641148325359,0.0,en,1.9
 NBR,NBR,ORG,0.1674641148325359,0.0,en,1.9
 The Northern Tornadoes Project,The Northern Tornadoes Project,ORG,0.4210526315789474,0.5263157894736842,en,1.9
@@ -520,8 +520,8 @@ Juventus,Juventus,ORG,0.0,0.0,en,1.9
 Tunnel Alliance - Sandstorm,Tunnel Alliance - Sandstorm,ORG,0.0,0.0,en,1.9
 HBO,HBO,ORG,-0.05669856459330142,0.2631578947368421,en,1.9
 LA,LA,ORG,-0.10526315789473684,0.4166666666666667,en,1.9
-Pinterest,Pinterest,ORG,0.3740601503759398,0.2951127819548872,en,1.9
 Merlot Red,Merlot Red,ORG,0.0,0.0,en,1.9
+Pinterest,Pinterest,ORG,0.3740601503759398,0.2951127819548872,en,1.9
 CLI,CLI,ORG,0.4210526315789474,0.3157894736842105,en,1.9
 the Opportunity rover,the Opportunity rover,ORG,0.030701754385964907,0.16290726817042608,en,1.9
 KLAS,KLAS,ORG,0.08771929824561403,0.19005847953216376,en,1.9
@@ -1615,7 +1615,7 @@ Texas Chainsaw Massacre 1 &amp,Texas Chainsaw Massacre 1 &amp,ORG,0.133333333333
 Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1.0
 Retry Storm Lab,Retry Storm Lab,ORG,-0.1,0.0,en,1.0
 Flash Flood Emergency,Flash Flood Emergency,ORG,0.0,0.0,en,1.0
-the El Niño,the El Niño,ORG,-0.3904761904761905,0.0,en,1.0
+The El Niño,The El Niño,ORG,0.5,0.0,en,1.0
 NASS,NASS,ORG,0.3,0.0,en,1.0
 The United Nations Food and Agriculture Organization,The United Nations Food and Agriculture Organization,ORG,0.0,0.0,en,1.0
 Jude Bellingham,Jude Bellingham,ORG,0.10000000000000002,0.0,en,1.0
@@ -1732,7 +1732,7 @@ West Bank Partners,West Bank Partners,ORG,0.0,0.0,en,1.0
 Slidell,Slidell,ORG,0.0,0.0,en,1.0
 Iguaçu,Iguaçu,ORG,0.0,0.0,en,1.0
 Rio Bonito,Rio Bonito,ORG,0.049999999999999996,0.0,en,1.0
-The El Niño,The El Niño,ORG,0.5,0.0,en,1.0
+the El Niño,the El Niño,ORG,-0.3904761904761905,0.0,en,1.0
 Bureau of Meteorology s,Bureau of Meteorology s,ORG,0.0,0.0,en,1.0
 N…,N…,ORG,0.19981060606060605,0.0,en,1.0
 "Carrington Event
@@ -1887,8 +1887,8 @@ Caltrans,Caltrans,ORG,0.02250000000000002,0.0,en,1.0
 - San Francisco Chronicle,- San Francisco Chronicle,ORG,-0.6666666666666666,0.0,en,1.0
 Terra Nova,Terra Nova,ORG,0.35714285714285715,0.0,en,1.0
 Lovers Arch,Lovers Arch,ORG,0.007142857142857141,0.0,en,1.0
-Cairn,Cairn,ORG,-0.26666666666666666,0.0,en,1.0
 Dairy Queen Oreo Snowdrift Blizzard,Dairy Queen Oreo Snowdrift Blizzard,ORG,0.0,0.0,en,1.0
+Cairn,Cairn,ORG,-0.26666666666666666,0.0,en,1.0
 Storm Team,Storm Team,ORG,0.13636363636363635,0.0,en,1.0
 WTNH,WTNH,ORG,0.13636363636363635,0.0,en,1.0
 Overwatch Still Needs to Bring Back This Feature,Overwatch Still Needs to Bring Back This Feature,ORG,0.175,0.0,en,1.0
@@ -2423,8 +2423,8 @@ Storm - Yahoo Sports,Storm - Yahoo Sports,ORG,0.0,0.0,en,1.0
 New Multiplayer Action,New Multiplayer Action,ORG,0.11818181818181818,0.0,en,1.0
 AP Photo/,AP Photo/,ORG,-0.25,0.0,en,1.0
 Notorious Studios,Notorious Studios,ORG,0.06999999999999999,0.0,en,1.0
-Summit,Summit,ORG,0.0,0.0,en,1.0
 Overwatch Switch,Overwatch Switch,ORG,0.5,0.0,en,1.0
+Summit,Summit,ORG,0.0,0.0,en,1.0
 Flaujae Johnsons WNBA Draft,Flaujae Johnsons WNBA Draft,ORG,0.06666666666666667,0.0,en,1.0
 "Talon
 Overwatch","Talon
@@ -2674,9 +2674,9 @@ Montrealers,Montrealers,ORG,0.0,0.0,en,1.0
 India News,India News,ORG,0.0,0.0,en,1.0
 Uppe,Uppe,ORG,0.35,0.0,en,1.0
 Maha,Maha,ORG,0.0,0.0,en,1.0
+the College Basketball,the College Basketball,ORG,0.23611111111111108,0.0,en,1.0
 MO,MO,ORG,0.0,0.0,en,1.0
 College Basketball,College Basketball,ORG,0.20833333333333331,0.0,en,1.0
-the College Basketball,the College Basketball,ORG,0.23611111111111108,0.0,en,1.0
 Twin Cities,Twin Cities,ORG,0.0,0.0,en,1.0
 Blizzard Warnings,Blizzard Warnings,ORG,-0.02121212121212122,0.0,en,1.0
 MN,MN,ORG,-0.02121212121212122,0.0,en,1.0
